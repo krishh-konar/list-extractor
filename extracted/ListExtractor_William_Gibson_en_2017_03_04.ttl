@@ -1,0 +1,123 @@
+@prefix dbo: <http://dbpedia.org/ontology/> .
+@prefix dbr: <http://dbpedia.org/resource/> .
+@prefix rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#> .
+@prefix xml: <http://www.w3.org/XML/1998/namespace> .
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#> .
+
+<http://dbpedia.org/resource/Agrippa_%28a_book_of_the_dead%29> dbo:author dbr:William_Gibson ;
+    dbo:literaryGenre dbr:Non-fiction ;
+    dbo:releaseYear "1992-01-01"^^xsd:gYear .
+
+<http://dbpedia.org/resource/All_Tomorrow%27s_Parties_%28novel%29> dbo:author dbr:William_Gibson ;
+    dbo:literaryGenre dbr:Novel ;
+    dbo:releaseYear "1999-01-01"^^xsd:gYear .
+
+dbr:Bridge_trilogy dbo:author dbr:William_Gibson ;
+    dbo:literaryGenre dbr:Novel .
+
+dbr:Burning_Chrome dbo:author dbr:William_Gibson ;
+    dbo:literaryGenre dbr:Short_story ;
+    dbo:releaseYear "1982-01-01"^^xsd:gYear .
+
+<http://dbpedia.org/resource/Burning_Chrome_%28short_story_collection%29> dbo:author dbr:William_Gibson ;
+    dbo:literaryGenre dbr:Short_story ;
+    dbo:releaseYear "1986-01-01"^^xsd:gYear .
+
+dbr:Count_Zero dbo:author dbr:William_Gibson ;
+    dbo:literaryGenre dbr:Novel ;
+    dbo:releaseYear "1986-01-01"^^xsd:gYear .
+
+dbr:Distrust_That_Particular_Flavor dbo:author dbr:William_Gibson ;
+    dbo:literaryGenre dbr:Non-fiction ;
+    dbo:releaseYear "2012-01-01"^^xsd:gYear .
+
+<http://dbpedia.org/resource/Dogfight_%28short_story%29> dbo:author dbr:William_Gibson ;
+    dbo:literaryGenre dbr:Short_story ;
+    dbo:releaseYear "1985-01-01"^^xsd:gYear .
+
+dbr:Fragments_of_a_Hologram_Rose dbo:author dbr:William_Gibson ;
+    dbo:literaryGenre dbr:Short_story ;
+    dbo:releaseYear "1977-01-01"^^xsd:gYear .
+
+<http://dbpedia.org/resource/Hinterlands_%28short_story%29> dbo:author dbr:William_Gibson ;
+    dbo:literaryGenre dbr:Short_story ;
+    dbo:releaseYear "1981-01-01"^^xsd:gYear .
+
+dbr:Hubertus_Bigend dbo:author dbr:William_Gibson ;
+    dbo:literaryGenre dbr:Novel .
+
+dbr:Idoru dbo:author dbr:William_Gibson ;
+    dbo:literaryGenre dbr:Novel ;
+    dbo:releaseYear "1996-01-01"^^xsd:gYear .
+
+dbr:Johnny_Mnemonic dbo:author dbr:William_Gibson ;
+    dbo:literaryGenre dbr:Short_story ;
+    dbo:releaseYear "1981-01-01"^^xsd:gYear .
+
+dbr:Mona_Lisa_Overdrive dbo:author dbr:William_Gibson ;
+    dbo:literaryGenre dbr:Novel ;
+    dbo:releaseYear "1988-01-01"^^xsd:gYear .
+
+dbr:Neuromancer dbo:author dbr:William_Gibson ;
+    dbo:literaryGenre dbr:Novel ;
+    dbo:releaseYear "1984-01-01"^^xsd:gYear .
+
+dbr:New_Rose_Hotel dbo:author dbr:William_Gibson ;
+    dbo:literaryGenre dbr:Short_story ;
+    dbo:releaseYear "1981-01-01"^^xsd:gYear .
+
+<http://dbpedia.org/resource/Pattern_Recognition_%28novel%29> dbo:author dbr:William_Gibson ;
+    dbo:literaryGenre dbr:Novel ;
+    dbo:releaseYear "2003-01-01"^^xsd:gYear .
+
+<http://dbpedia.org/resource/Red_Star%2C_Winter_Orbit> dbo:author dbr:William_Gibson ;
+    dbo:literaryGenre dbr:Short_story ;
+    dbo:releaseYear "1983-01-01"^^xsd:gYear .
+
+<http://dbpedia.org/resource/Skinner%27s_Room> dbo:author dbr:William_Gibson ;
+    dbo:literaryGenre dbr:Short_story ;
+    dbo:releaseYear "1991-01-01"^^xsd:gYear .
+
+dbr:Spook_Country dbo:author dbr:William_Gibson ;
+    dbo:literaryGenre dbr:Novel ;
+    dbo:releaseYear "2007-01-01"^^xsd:gYear .
+
+dbr:Sprawl_trilogy dbo:author dbr:William_Gibson ;
+    dbo:literaryGenre dbr:Novel .
+
+dbr:The_Belonging_Kind dbo:author dbr:William_Gibson ;
+    dbo:literaryGenre dbr:Short_story ;
+    dbo:releaseYear "1981-01-01"^^xsd:gYear .
+
+dbr:The_Difference_Engine dbo:author dbr:William_Gibson ;
+    dbo:literaryGenre dbr:Novel ;
+    dbo:releaseYear "1990-01-01"^^xsd:gYear .
+
+dbr:The_Gernsback_Continuum dbo:author dbr:William_Gibson ;
+    dbo:literaryGenre dbr:Short_story ;
+    dbo:releaseYear "1981-01-01"^^xsd:gYear .
+
+dbr:The_Peripheral dbo:author dbr:William_Gibson ;
+    dbo:literaryGenre dbr:Novel ;
+    dbo:releaseYear "2014-01-01"^^xsd:gYear .
+
+dbr:The_Winter_Market dbo:author dbr:William_Gibson ;
+    dbo:literaryGenre dbr:Short_story ;
+    dbo:releaseYear "1985-01-01"^^xsd:gYear .
+
+dbr:Virtual_Light dbo:author dbr:William_Gibson ;
+    dbo:literaryGenre dbr:Novel ;
+    dbo:releaseYear "1993-01-01"^^xsd:gYear .
+
+<http://dbpedia.org/resource/Wired_%28magazine%29> dbo:author dbr:William_Gibson ;
+    dbo:literaryGenre dbr:Non-fiction ;
+    dbo:releaseYear "1993-01-01"^^xsd:gYear .
+
+dbr:Zero_History dbo:author dbr:William_Gibson ;
+    dbo:literaryGenre dbr:Novel ;
+    dbo:releaseYear "2010-01-01"^^xsd:gYear .
+
+dbr:nom_de_plume dbo:author dbr:William_Gibson ;
+    dbo:releaseYear "2009-01-01"^^xsd:gYear .
+

@@ -1,0 +1,202 @@
+@prefix dbo: <http://dbpedia.org/ontology/> .
+@prefix dbr: <http://dbpedia.org/resource/> .
+@prefix rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#> .
+@prefix xml: <http://www.w3.org/XML/1998/namespace> .
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#> .
+
+<http://dbpedia.org/resource/A_Boy%27s_Will> dbo:author dbr:Robert_Frost ;
+    dbo:literaryGenre dbr:Poetry ;
+    dbo:releaseYear "1913-01-01"^^xsd:gYear .
+
+dbr:A_Further_Range dbo:author dbr:Robert_Frost ;
+    dbo:literaryGenre dbr:Poetry ;
+    dbo:releaseYear "1936-01-01"^^xsd:gYear .
+
+dbr:A_Masque_of_Mercy dbo:author dbr:Robert_Frost ;
+    dbo:literaryGenre <http://dbpedia.org/resource/Play_(theatre)> ;
+    dbo:releaseYear "1947-01-01"^^xsd:gYear .
+
+dbr:A_Masque_of_Reason dbo:author dbr:Robert_Frost ;
+    dbo:literaryGenre <http://dbpedia.org/resource/Play_(theatre)> ;
+    dbo:releaseYear "1945-01-01"^^xsd:gYear .
+
+<http://dbpedia.org/resource/A_Question_%28poem%29> dbo:author dbr:Robert_Frost ;
+    dbo:literaryGenre dbr:Poetry .
+
+dbr:A_Remembrance_Collection_of_New_Poems dbo:author dbr:Robert_Frost ;
+    dbo:literaryGenre dbr:Poetry ;
+    dbo:releaseYear "1959-01-01"^^xsd:gYear .
+
+<http://dbpedia.org/resource/A_Way_Out%3A_A_One_Act_Play> dbo:author dbr:Robert_Frost ;
+    dbo:literaryGenre <http://dbpedia.org/resource/Play_(theatre)> ;
+    dbo:releaseYear "1929-01-01"^^xsd:gYear .
+
+dbr:A_Witness_Tree dbo:author dbr:Robert_Frost ;
+    dbo:literaryGenre dbr:Poetry ;
+    dbo:releaseYear "1942-01-01"^^xsd:gYear .
+
+dbr:Acquainted_with_the_Night dbo:author dbr:Robert_Frost ;
+    dbo:literaryGenre dbr:Poetry .
+
+dbr:Aforesaid dbo:author dbr:Robert_Frost ;
+    dbo:literaryGenre dbr:Poetry ;
+    dbo:releaseYear "1954-01-01"^^xsd:gYear .
+
+dbr:After_Apple-Picking dbo:author dbr:Robert_Frost ;
+    dbo:literaryGenre dbr:Poetry .
+
+<http://dbpedia.org/resource/Birches_%28poem%29> dbo:author dbr:Robert_Frost ;
+    dbo:literaryGenre dbr:Poetry .
+
+<http://dbpedia.org/resource/Collected_Poems%2C_Prose_and_Plays> dbo:author dbr:Robert_Frost ;
+    dbo:isbn "978-1-883011-06-2"^^xsd:string ;
+    dbo:releaseYear "1995-01-01"^^xsd:gYear .
+
+dbr:Collected_Poems_of_Robert_Frost dbo:author dbr:Robert_Frost ;
+    dbo:literaryGenre dbr:Poetry ;
+    dbo:releaseYear "1939-01-01"^^xsd:gYear .
+
+<http://dbpedia.org/resource/Collected_Poems_of_Robert_Frost_%281930%29> dbo:author dbr:Robert_Frost ;
+    dbo:literaryGenre dbr:Poetry ;
+    dbo:releaseYear "1930-01-01"^^xsd:gYear .
+
+<http://dbpedia.org/resource/Come_In%2C_and_Other_Poems> dbo:author dbr:Robert_Frost ;
+    dbo:literaryGenre dbr:Poetry ;
+    dbo:releaseYear "1943-01-01"^^xsd:gYear .
+
+dbr:Complete_Poems_of_Robert_Frost dbo:author dbr:Robert_Frost ;
+    dbo:literaryGenre dbr:Poetry ;
+    dbo:releaseYear "1949-01-01"^^xsd:gYear .
+
+dbr:Family_Letters_of_Robert_and_Elinor_Frost dbo:author dbr:Robert_Frost ;
+    dbo:releaseYear "1972-01-01"^^xsd:gYear .
+
+<http://dbpedia.org/resource/Fire_and_Ice_%28poem%29> dbo:author dbr:Robert_Frost ;
+    dbo:literaryGenre dbr:Poetry .
+
+dbr:From_Snow_to_Snow dbo:author dbr:Robert_Frost ;
+    dbo:literaryGenre dbr:Poetry ;
+    dbo:releaseYear "1936-01-01"^^xsd:gYear .
+
+dbr:Hard_Not_To_Be_King dbo:author dbr:Robert_Frost ;
+    dbo:literaryGenre dbr:Poetry ;
+    dbo:releaseYear "1951-01-01"^^xsd:gYear .
+
+<http://dbpedia.org/resource/Harvard_University_Press_imprint%3B_811_pages%3B_first_volume> dbo:author dbr:Robert_Frost .
+
+<http://dbpedia.org/resource/Harvard_University_Press_imprint%3B_848_pages%3B_second_volume_of_the_series.%29> dbo:author dbr:Robert_Frost .
+
+dbr:In_the_Clearing dbo:author dbr:Robert_Frost ;
+    dbo:literaryGenre dbr:Poetry ;
+    dbo:releaseYear "1962-01-01"^^xsd:gYear .
+
+dbr:Interviews_with_Robert_Frost dbo:author dbr:Robert_Frost ;
+    dbo:releaseYear "1966-01-01"^^xsd:gYear .
+
+dbr:Mending_Wall dbo:author dbr:Robert_Frost ;
+    dbo:literaryGenre dbr:Poetry .
+
+dbr:Mountain_Interval dbo:author dbr:Robert_Frost ;
+    dbo:literaryGenre dbr:Poetry ;
+    dbo:releaseYear "1916-01-01"^^xsd:gYear .
+
+<http://dbpedia.org/resource/New_Hampshire_%28book%29> dbo:author dbr:Robert_Frost ;
+    dbo:literaryGenre dbr:Poetry ;
+    dbo:releaseYear "1923-01-01"^^xsd:gYear .
+
+dbr:North_of_Boston dbo:author dbr:Robert_Frost ;
+    dbo:literaryGenre dbr:Poetry ;
+    dbo:releaseYear "1914-01-01"^^xsd:gYear .
+
+<http://dbpedia.org/resource/Nothing_Gold_Can_Stay_%28poem%29> dbo:author dbr:Robert_Frost ;
+    dbo:literaryGenre dbr:Poetry .
+
+<http://dbpedia.org/resource/Out%2C_Out> dbo:author dbr:Robert_Frost ;
+    dbo:literaryGenre dbr:Poetry .
+
+dbr:Poetry_analysis.22The_Silken_Tent.22_by_Robert_Frost dbo:author dbr:Robert_Frost ;
+    dbo:literaryGenre dbr:Poetry .
+
+dbr:Robert_Frost_Reads_His_Poetry dbo:author dbr:Robert_Frost ;
+    dbo:releaseYear "1957-01-01"^^xsd:gYear .
+
+<http://dbpedia.org/resource/Robert_Frost_and_John_Bartlett%3A_The_Record_of_a_Friendship> dbo:author dbr:Robert_Frost ;
+    dbo:releaseYear "1963-01-01"^^xsd:gYear .
+
+<http://dbpedia.org/resource/Robert_Frost_and_Sidney_Cox%3A_Forty_Years_of_Friendship> dbo:author dbr:Robert_Frost ;
+    dbo:releaseYear "1981-01-01"^^xsd:gYear .
+
+dbr:Selected_Letters_of_Robert_Frost dbo:author dbr:Robert_Frost ;
+    dbo:releaseYear "1964-01-01"^^xsd:gYear .
+
+dbr:Selected_Poems dbo:author dbr:Robert_Frost ;
+    dbo:literaryGenre dbr:Poetry ;
+    dbo:releaseYear "1923-01-01"^^xsd:gYear,
+        "1928-01-01"^^xsd:gYear .
+
+<http://dbpedia.org/resource/Selected_Poems%3A_Third_Edition> dbo:author dbr:Robert_Frost ;
+    dbo:literaryGenre dbr:Poetry ;
+    dbo:releaseYear "1934-01-01"^^xsd:gYear .
+
+dbr:Several_Short_Poems dbo:author dbr:Robert_Frost ;
+    dbo:literaryGenre dbr:Poetry ;
+    dbo:releaseYear "1924-01-01"^^xsd:gYear .
+
+dbr:Steeple_Bush dbo:author dbr:Robert_Frost ;
+    dbo:literaryGenre dbr:Poetry ;
+    dbo:releaseYear "1947-01-01"^^xsd:gYear .
+
+dbr:Stopping_by_Woods_on_a_Snowy_Evening dbo:author dbr:Robert_Frost ;
+    dbo:literaryGenre dbr:Poetry .
+
+<http://dbpedia.org/resource/The_Cow%27s_in_the_Corn%3A_A_One_Act_Irish_Play_in_Rhyme> dbo:author dbr:Robert_Frost ;
+    dbo:literaryGenre <http://dbpedia.org/resource/Play_(theatre)> ;
+    dbo:releaseYear "1929-01-01"^^xsd:gYear .
+
+dbr:The_Death_of_the_Hired_Man dbo:author dbr:Robert_Frost ;
+    dbo:literaryGenre dbr:Poetry .
+
+dbr:The_Gift_Outright dbo:author dbr:Robert_Frost ;
+    dbo:literaryGenre dbr:Poetry .
+
+dbr:The_Gold_Hesperidee dbo:author dbr:Robert_Frost ;
+    dbo:literaryGenre dbr:Poetry ;
+    dbo:releaseYear "1935-01-01"^^xsd:gYear .
+
+dbr:The_Letters_of_Robert_Frost_to_Louis_Untermeyer dbo:author dbr:Robert_Frost ;
+    dbo:releaseYear "1963-01-01"^^xsd:gYear .
+
+dbr:The_Lone_Striker dbo:author dbr:Robert_Frost ;
+    dbo:literaryGenre dbr:Poetry ;
+    dbo:releaseYear "1933-01-01"^^xsd:gYear .
+
+<http://dbpedia.org/resource/The_Lovely_Shall_Be_Choosers%2C> dbo:author dbr:Robert_Frost ;
+    dbo:literaryGenre dbr:Poetry ;
+    dbo:releaseYear "1929-01-01"^^xsd:gYear .
+
+dbr:The_Notebooks_of_Robert_Frost dbo:author dbr:Robert_Frost ;
+    dbo:releaseYear "2007-01-01"^^xsd:gYear .
+
+dbr:The_Oven_Bird dbo:author dbr:Robert_Frost ;
+    dbo:literaryGenre dbr:Poetry .
+
+dbr:The_Poetry_of_Robert_Frost dbo:author dbr:Robert_Frost ;
+    dbo:literaryGenre dbr:Poetry ;
+    dbo:releaseYear "1969-01-01"^^xsd:gYear .
+
+<http://dbpedia.org/resource/The_Road_Not_Taken_%28poem%29> dbo:author dbr:Robert_Frost ;
+    dbo:literaryGenre dbr:Poetry .
+
+dbr:Three_Poems dbo:author dbr:Robert_Frost ;
+    dbo:literaryGenre dbr:Poetry ;
+    dbo:releaseYear "1935-01-01"^^xsd:gYear .
+
+dbr:West-Running_Brook dbo:author dbr:Robert_Frost ;
+    dbo:literaryGenre dbr:Poetry ;
+    dbo:releaseYear "1928-01-01"^^xsd:gYear .
+
+dbr:You_Come_Too dbo:author dbr:Robert_Frost ;
+    dbo:literaryGenre dbr:Poetry ;
+    dbo:releaseYear "1959-01-01"^^xsd:gYear .
+

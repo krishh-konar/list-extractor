@@ -1,0 +1,2269 @@
+@prefix dbo: <http://dbpedia.org/ontology/> .
+@prefix dbr: <http://dbpedia.org/resource/> .
+@prefix rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#> .
+@prefix xml: <http://www.w3.org/XML/1998/namespace> .
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#> .
+
+<http://dbpedia.org/resource/2_vols.%29> dbo:author dbr:Hanoch_Teller .
+
+<http://dbpedia.org/resource/3000_Years_of_Fantasy_and_Science_Fiction> dbo:author dbr:Catherine_Crook_de_Camp ;
+    dbo:releaseYear "1972-01-01"^^xsd:gYear .
+
+dbr:A_1950_play_adapted_from_the_1946_novel dbo:author dbr:Carson_McCullers ;
+    dbo:releaseYear "1950-01-01"^^xsd:gYear .
+
+<http://dbpedia.org/resource/A_Baby%3F_Maybe> dbo:author <http://dbpedia.org/resource/Diana_Palmer_(author)> ;
+    dbo:literaryGenre dbr:Anthology ;
+    dbo:releaseYear "1996-01-01"^^xsd:gYear .
+
+dbr:A_Book_About_the_Theater dbo:author dbr:Brander_Matthews ;
+    dbo:releaseYear "1916-01-01"^^xsd:gYear .
+
+dbr:A_Cat_of_Artimus_Pride dbo:author dbr:Hazel_Hutchins ;
+    dbo:releaseYear "1991-01-01"^^xsd:gYear .
+
+dbr:A_Collection_of_Poems_on_Various_Subjects dbo:author dbr:James_Sheridan_Knowles ;
+    dbo:literaryGenre dbr:Poetry ;
+    dbo:releaseYear "1810-01-01"^^xsd:gYear .
+
+dbr:A_Confident_To-Morrow dbo:author dbr:Brander_Matthews ;
+    dbo:releaseYear "1900-01-01"^^xsd:gYear .
+
+dbr:A_Crying_Bird_on_the_Border dbo:author dbr:Hyun_Ki-young ;
+    dbo:releaseYear "1983-01-01"^^xsd:gYear .
+
+<http://dbpedia.org/resource/A_Hero%27s_Kiss> dbo:author <http://dbpedia.org/resource/Diana_Palmer_(author)> ;
+    dbo:literaryGenre dbr:Anthology ;
+    dbo:releaseYear "2003-01-01"^^xsd:gYear .
+
+dbr:A_Letter_to_a_Young_Man dbo:author dbr:Dmitry_Bykov ;
+    dbo:literaryGenre dbr:Poetry ;
+    dbo:releaseYear "1994-01-01"^^xsd:gYear .
+
+dbr:A_Long_Tall_Texan_Summer dbo:author <http://dbpedia.org/resource/Diana_Palmer_(author)> ;
+    dbo:releaseYear "1997-01-01"^^xsd:gYear .
+
+dbr:A_Loving_Arrangement dbo:author <http://dbpedia.org/resource/Diana_Palmer_(author)> ;
+    dbo:literaryGenre dbr:Novel ;
+    dbo:releaseYear "1983-01-01"^^xsd:gYear .
+
+dbr:A_Man_of_Means dbo:author <http://dbpedia.org/resource/Diana_Palmer_(author)> ;
+    dbo:releaseYear "2002-01-01"^^xsd:gYear .
+
+<http://dbpedia.org/resource/A_Man_of_Means_/_The_Millionaire%27s_Pregnant_Bride> dbo:author <http://dbpedia.org/resource/Diana_Palmer_(author)> ;
+    dbo:literaryGenre dbr:Anthology ;
+    dbo:releaseYear "2003-01-01"^^xsd:gYear .
+
+dbr:A_Masque dbo:author dbr:James_Sheridan_Knowles ;
+    dbo:releaseYear "1832-01-01"^^xsd:gYear .
+
+dbr:A_Matter_of_Trust dbo:author <http://dbpedia.org/resource/Diana_Palmer_(author)> ;
+    dbo:releaseYear "2006-01-01"^^xsd:gYear .
+
+dbr:A_Second_is_a_Hiccup dbo:author dbr:Hazel_Hutchins ;
+    dbo:releaseYear "2004-01-01"^^xsd:gYear .
+
+dbr:A_Spoon_on_the_Earth dbo:author dbr:Hyun_Ki-young ;
+    dbo:releaseYear "1999-01-01"^^xsd:gYear .
+
+dbr:A_Treatise_on_the_Climate_of_Madeira dbo:author dbr:James_Sheridan_Knowles ;
+    dbo:literaryGenre dbr:Non-fiction ;
+    dbo:releaseYear "1850-01-01"^^xsd:gYear .
+
+<http://dbpedia.org/resource/A_VAST_AND_FIENDISH_PLOT%3A_The_Confederate_Attack_on_New_York_City> dbo:author dbr:Clint_Johnson ;
+    dbo:isbn "0-8065-3131-2"^^xsd:string ;
+    dbo:releaseYear "2010-01-01"^^xsd:gYear .
+
+dbr:A_Waiting_Game dbo:author <http://dbpedia.org/resource/Diana_Palmer_(author)> ;
+    dbo:literaryGenre dbr:Novel ;
+    dbo:releaseYear "1982-01-01"^^xsd:gYear .
+
+dbr:A_collection_comprising dbo:author dbr:Carson_McCullers .
+
+<http://dbpedia.org/resource/A_collection_of_poems_illustrated_by_Rolf_G%C3%A9rard.> dbo:author dbr:Carson_McCullers .
+
+dbr:Abduction_and_Seduction dbo:author <http://dbpedia.org/resource/Diana_Palmer_(author)> ;
+    dbo:literaryGenre dbr:Anthology ;
+    dbo:releaseYear "1995-01-01"^^xsd:gYear .
+
+dbr:Academy_of_American_Poets dbo:author dbr:Idra_Novey ;
+    dbo:releaseYear "2015-01-01"^^xsd:gYear .
+
+dbr:Acadian_Star dbo:author dbr:Hélène_Boudreau ;
+    dbo:releaseYear "2008-01-01"^^xsd:gYear .
+
+dbr:Actors_and_Actresses_of_the_United_States_and_Great_Britain dbo:author dbr:Brander_Matthews ;
+    dbo:releaseYear "1886-01-01"^^xsd:gYear .
+
+dbr:Actually dbo:author dbr:Dmitry_Bykov ;
+    dbo:literaryGenre dbr:Poetry ;
+    dbo:releaseYear "2011-01-01"^^xsd:gYear .
+
+dbr:Adipath dbo:author dbr:Hemchandra_Barua ;
+    dbo:releaseYear "1873-01-01"^^xsd:gYear .
+
+dbr:After_Midnight dbo:author <http://dbpedia.org/resource/Diana_Palmer_(author)> ;
+    dbo:literaryGenre dbr:Novel ;
+    dbo:releaseYear "1993-01-01"^^xsd:gYear .
+
+dbr:After_the_Music dbo:author <http://dbpedia.org/resource/Diana_Palmer_(author)> ;
+    dbo:literaryGenre dbr:Novel ;
+    dbo:releaseYear "1986-01-01"^^xsd:gYear .
+
+<http://dbpedia.org/resource/After_the_Music_/_Dreams_End> dbo:author <http://dbpedia.org/resource/Diana_Palmer_(author)> ;
+    dbo:releaseYear "1990-01-01"^^xsd:gYear .
+
+<http://dbpedia.org/resource/Agenda_for_a_New_Economy%3A_From_Phantom_Wealth_to_Real_Wealth_%E2%80%93_A_Declaration_of_Independence_from_Wall_Street> dbo:author dbr:David_Korten ;
+    dbo:releaseYear "2010-01-01"^^xsd:gYear .
+
+dbr:Ahatanhel_Krymsky_Prize dbo:author dbr:Ivan_Feodosiyovych_Korsak ;
+    dbo:releaseYear "2008-01-01"^^xsd:gYear .
+
+<http://dbpedia.org/resource/Alexina%3B_or%2C_True_unto_Death> dbo:author dbr:James_Sheridan_Knowles ;
+    dbo:releaseYear "1866-01-01"^^xsd:gYear .
+
+<http://dbpedia.org/resource/Alfred_the_Great%3B_or_The_Patriot_King> dbo:author dbr:James_Sheridan_Knowles ;
+    dbo:releaseYear "1831-01-01"^^xsd:gYear .
+
+dbr:All_in_a_Lifetime dbo:author <http://dbpedia.org/resource/Birmingham_Group_(authors)> ;
+    dbo:releaseYear "1959-01-01"^^xsd:gYear .
+
+dbr:All_that_Glitters dbo:author <http://dbpedia.org/resource/Diana_Palmer_(author)> ;
+    dbo:literaryGenre dbr:Novel ;
+    dbo:releaseYear "1995-01-01"^^xsd:gYear .
+
+dbr:Altar_of_Eden dbo:author dbr:James_Rollins ;
+    dbo:literaryGenre dbr:Novel ;
+    dbo:releaseYear "2012-01-01"^^xsd:gYear .
+
+<http://dbpedia.org/resource/Alternatives_to_Economic_Globalization%3A_A_Better_World_is_Possible> dbo:author dbr:David_Korten ;
+    dbo:releaseYear "2004-01-01"^^xsd:gYear .
+
+dbr:Amazonia dbo:author dbr:James_Rollins ;
+    dbo:literaryGenre dbr:Novel ;
+    dbo:releaseYear "2002-01-01"^^xsd:gYear .
+
+dbr:Amelia dbo:author <http://dbpedia.org/resource/Diana_Palmer_(author)> ;
+    dbo:literaryGenre dbr:Novel ;
+    dbo:releaseYear "1993-01-01"^^xsd:gYear .
+
+dbr:American_Character dbo:author dbr:Brander_Matthews ;
+    dbo:releaseYear "1906-01-01"^^xsd:gYear .
+
+dbr:Americanisms_and_Briticisms dbo:author dbr:Brander_Matthews ;
+    dbo:releaseYear "1892-01-01"^^xsd:gYear .
+
+dbr:Americans_of_the_Future_and_Other_Essays dbo:author dbr:Brander_Matthews ;
+    dbo:releaseYear "1909-01-01"^^xsd:gYear .
+
+dbr:An_Introduction_to_the_Study_of_American_Literature dbo:author dbr:Brander_Matthews ;
+    dbo:releaseYear "1896-01-01"^^xsd:gYear .
+
+<http://dbpedia.org/resource/Anabelle%27s_Legacy> dbo:author <http://dbpedia.org/resource/Diana_Palmer_(author)> ;
+    dbo:literaryGenre dbr:Novel ;
+    dbo:releaseYear "1996-01-01"^^xsd:gYear .
+
+dbr:Anastasia_Morningstar_and_the_Crystal_Butterfly dbo:author dbr:Hazel_Hutchins ;
+    dbo:releaseYear "1984-01-01"^^xsd:gYear .
+
+dbr:Ancient_Literary_Criticism dbo:author <http://dbpedia.org/resource/Donald_Russell_(classicist)> ;
+    dbo:releaseYear "1972-01-01"^^xsd:gYear .
+
+dbr:Ancient_Ruins_and_Archaeology dbo:author dbr:Catherine_Crook_de_Camp ;
+    dbo:literaryGenre dbr:Non-fiction ;
+    dbo:releaseYear "1964-01-01"^^xsd:gYear .
+
+dbr:And_Practically_Everybody dbo:author dbr:Dmitry_Bykov ;
+    dbo:literaryGenre dbr:Essay ;
+    dbo:releaseYear "2009-01-01"^^xsd:gYear .
+
+dbr:And_You_Can_Be_the_Cat dbo:author dbr:Hazel_Hutchins ;
+    dbo:releaseYear "1992-01-01"^^xsd:gYear .
+
+dbr:Anthology_of_Greek_Prose dbo:author <http://dbpedia.org/resource/Donald_Russell_(classicist)> ;
+    dbo:releaseYear "1991-01-01"^^xsd:gYear .
+
+dbr:Anthology_of_Latin_Prose dbo:author <http://dbpedia.org/resource/Donald_Russell_(classicist)> ;
+    dbo:releaseYear "1990-01-01"^^xsd:gYear .
+
+dbr:Aspects_of_Fiction dbo:author dbr:Brander_Matthews ;
+    dbo:releaseYear "1896-01-01"^^xsd:gYear .
+
+dbr:Assamese_Marriage_System dbo:author dbr:Hemchandra_Barua .
+
+<http://dbpedia.org/resource/At_Winter%27s_End> dbo:author <http://dbpedia.org/resource/Diana_Palmer_(author)> ;
+    dbo:literaryGenre dbr:Novel ;
+    dbo:releaseYear "1979-01-01"^^xsd:gYear .
+
+dbr:Authority_and_Authorship_in_V._S._Naipaul dbo:author dbr:Imraan_Coovadia ;
+    dbo:releaseYear "2009-01-01"^^xsd:gYear .
+
+dbr:Award_granted_by_the_Cabinet_of_Ministers_of_Ukraine dbo:author dbr:Ivan_Feodosiyovych_Korsak .
+
+dbr:Axomiya_Byakaran dbo:author dbr:Hemchandra_Barua ;
+    dbo:releaseYear "1859-01-01"^^xsd:gYear .
+
+dbr:Axomiya_loraar_byakaran dbo:author dbr:Hemchandra_Barua ;
+    dbo:releaseYear "1886-01-01"^^xsd:gYear .
+
+dbr:Bachelor_Heroes dbo:author <http://dbpedia.org/resource/Diana_Palmer_(author)> ;
+    dbo:literaryGenre dbr:Anthology ;
+    dbo:releaseYear "2006-01-01"^^xsd:gYear .
+
+dbr:Bahire_rong_song dbo:author dbr:Hemchandra_Barua .
+
+dbr:Before_Sunrise dbo:author <http://dbpedia.org/resource/Diana_Palmer_(author)> ;
+    dbo:literaryGenre dbr:Novel ;
+    dbo:releaseYear "2005-01-01"^^xsd:gYear .
+
+dbr:Believing_Sophie dbo:author dbr:Hazel_Hutchins ;
+    dbo:releaseYear "1995-01-01"^^xsd:gYear .
+
+dbr:Beloved dbo:author <http://dbpedia.org/resource/Diana_Palmer_(author)> ;
+    dbo:literaryGenre dbr:Novel ;
+    dbo:releaseYear "1999-01-01"^^xsd:gYear .
+
+<http://dbpedia.org/resource/Ben%27s_Snow_Song> dbo:author dbr:Hazel_Hutchins ;
+    dbo:releaseYear "1987-01-01"^^xsd:gYear .
+
+dbr:Beneath_the_Bridge dbo:author dbr:Hazel_Hutchins ;
+    dbo:releaseYear "2004-01-01"^^xsd:gYear .
+
+dbr:Betrayed_by_Love dbo:author <http://dbpedia.org/resource/Diana_Palmer_(author)> ;
+    dbo:literaryGenre dbr:Novel ;
+    dbo:releaseYear "1987-01-01"^^xsd:gYear .
+
+dbr:Big_Sky_Winter dbo:author <http://dbpedia.org/resource/Diana_Palmer_(author)> ;
+    dbo:releaseYear "2008-01-01"^^xsd:gYear .
+
+dbr:Birds_for_a_Demolition dbo:author dbr:Idra_Novey ;
+    dbo:releaseYear "2010-01-01"^^xsd:gYear .
+
+dbr:Blast_Off_at_Woomera dbo:author <http://dbpedia.org/resource/Hugh_Walters_(author)> ;
+    dbo:releaseYear "1957-01-01"^^xsd:gYear .
+
+dbr:Blessings_in_Disguise dbo:author <http://dbpedia.org/resource/Diana_Palmer_(author)> ;
+    dbo:literaryGenre dbr:Anthology ;
+    dbo:releaseYear "2003-01-01"^^xsd:gYear .
+
+dbr:Blind_Promises dbo:author <http://dbpedia.org/resource/Diana_Palmer_(author)> ;
+    dbo:releaseYear "1984-01-01"^^xsd:gYear .
+
+dbr:Bliss dbo:author dbr:Dmitry_Bykov ;
+    dbo:literaryGenre dbr:Poetry ;
+    dbo:releaseYear "2014-01-01"^^xsd:gYear .
+
+dbr:Blood_Brothers dbo:author dbr:James_Rollins .
+
+dbr:Blood_Infernal dbo:author dbr:James_Rollins ;
+    dbo:releaseYear "2015-01-01"^^xsd:gYear .
+
+<http://dbpedia.org/resource/Book_I%3A_The_Adept> dbo:author dbr:Deborah_Turner_Harris ;
+    dbo:releaseYear "1991-01-01"^^xsd:gYear .
+
+<http://dbpedia.org/resource/Book_I%3A_The_Temple_And_the_Stone> dbo:author dbr:Deborah_Turner_Harris ;
+    dbo:releaseYear "1998-01-01"^^xsd:gYear .
+
+<http://dbpedia.org/resource/Book_II%3A_The_Lodge_of_the_Lynx> dbo:author dbr:Deborah_Turner_Harris ;
+    dbo:releaseYear "1992-01-01"^^xsd:gYear .
+
+<http://dbpedia.org/resource/Book_II%3A_The_Temple_and_the_Crown> dbo:author dbr:Deborah_Turner_Harris ;
+    dbo:releaseYear "2001-01-01"^^xsd:gYear .
+
+<http://dbpedia.org/resource/Book_III%3A_The_Templar_Treasure> dbo:author dbr:Deborah_Turner_Harris ;
+    dbo:releaseYear "1993-01-01"^^xsd:gYear .
+
+<http://dbpedia.org/resource/Book_IV%3A_Dagger_Magic> dbo:author dbr:Deborah_Turner_Harris ;
+    dbo:releaseYear "1995-01-01"^^xsd:gYear .
+
+<http://dbpedia.org/resource/Book_V%3A_Death_of_an_Adept> dbo:author dbr:Deborah_Turner_Harris ;
+    dbo:releaseYear "1996-01-01"^^xsd:gYear .
+
+<http://dbpedia.org/resource/Bookbindings_Old_and_New%3A_Notes_of_a_book-lover%2C_with_an_account_of_the_Grolier_Club_of_New_York> dbo:author dbr:Brander_Matthews ;
+    dbo:releaseYear "1895-01-01"^^xsd:gYear .
+
+dbr:Boris_Pasternak dbo:author dbr:Dmitry_Bykov ;
+    dbo:literaryGenre dbr:Biography ;
+    dbo:releaseYear "2005-01-01"^^xsd:gYear .
+
+dbr:Borozna_u_Chuzhomy_Poli dbo:author dbr:Ivan_Feodosiyovych_Korsak ;
+    dbo:releaseYear "2014-01-01"^^xsd:gYear .
+
+dbr:Boss_Man dbo:author <http://dbpedia.org/resource/Diana_Palmer_(author)> ;
+    dbo:releaseYear "2005-01-01"^^xsd:gYear .
+
+<http://dbpedia.org/resource/Boss_Man_/_Tanner_Ties> dbo:author <http://dbpedia.org/resource/Diana_Palmer_(author)> ;
+    dbo:literaryGenre dbr:Anthology ;
+    dbo:releaseYear "2006-01-01"^^xsd:gYear .
+
+<http://dbpedia.org/resource/Boss_Man_/_The_Rugged_Loner> dbo:author <http://dbpedia.org/resource/Diana_Palmer_(author)> ;
+    dbo:releaseYear "2006-01-01"^^xsd:gYear .
+
+dbr:Bound_by_Honor dbo:author <http://dbpedia.org/resource/Diana_Palmer_(author)> ;
+    dbo:releaseYear "2006-01-01"^^xsd:gYear .
+
+dbr:Bound_by_a_Promise dbo:author <http://dbpedia.org/resource/Diana_Palmer_(author)> ;
+    dbo:literaryGenre dbr:Novel ;
+    dbo:releaseYear "1980-01-01"^^xsd:gYear .
+
+<http://dbpedia.org/resource/Bound_by_a_Promise_/_Passion_Flower> dbo:author <http://dbpedia.org/resource/Diana_Palmer_(author)> ;
+    dbo:releaseYear "1990-01-01"^^xsd:gYear .
+
+dbr:Boy_Astronaut dbo:author <http://dbpedia.org/resource/Hugh_Walters_(author)> ;
+    dbo:releaseYear "1977-01-01"^^xsd:gYear .
+
+dbr:Brave_Hearts dbo:author <http://dbpedia.org/resource/Diana_Palmer_(author)> ;
+    dbo:literaryGenre dbr:Anthology ;
+    dbo:releaseYear "1994-01-01"^^xsd:gYear .
+
+<http://dbpedia.org/resource/Brian_Boroihme%3B_or%2C_The_Maid_of_Erin> dbo:author dbr:James_Sheridan_Knowles ;
+    dbo:releaseYear "1811-01-01"^^xsd:gYear .
+
+dbr:Brides_to_Be dbo:author <http://dbpedia.org/resource/Diana_Palmer_(author)> ;
+    dbo:releaseYear "2002-01-01"^^xsd:gYear .
+
+<http://dbpedia.org/resource/Building_Bene_Brak%3A_The_vision%2C_foundation_and_luminaries_of_a_celebrated_Torah_community> dbo:author dbr:Hanoch_Teller .
+
+dbr:Bulat_Okudzhava dbo:author dbr:Dmitry_Bykov ;
+    dbo:literaryGenre dbr:Biography ;
+    dbo:releaseYear "2009-01-01"^^xsd:gYear .
+
+<http://dbpedia.org/resource/Bull%27s-Eyes_and_Misfires%3A_50_Obscure_People_Whose_Efforts_Shaped_the_American_Civil_War> dbo:author dbr:Clint_Johnson ;
+    dbo:isbn "1-55853-961-1"^^xsd:string ;
+    dbo:releaseYear "2002-01-01"^^xsd:gYear .
+
+<http://dbpedia.org/resource/Bureaucracy_and_the_Poor%3A_Closing_the_Gap> dbo:author dbr:David_Korten ;
+    dbo:releaseYear "1985-01-01"^^xsd:gYear .
+
+<http://dbpedia.org/resource/Burke_and_Coltrain%3A_That_Burke_Man_/_Coltrain%27s_Proposal> dbo:author <http://dbpedia.org/resource/Diana_Palmer_(author)> ;
+    dbo:releaseYear "2005-01-01"^^xsd:gYear .
+
+dbr:Caius_Gracchus dbo:author dbr:James_Sheridan_Knowles ;
+    dbo:releaseYear "1815-01-01"^^xsd:gYear .
+
+dbr:Calamity_Moon dbo:author <http://dbpedia.org/resource/Diana_Palmer_(author)> ;
+    dbo:literaryGenre dbr:Novel ;
+    dbo:releaseYear "1993-01-01"^^xsd:gYear .
+
+dbr:Caledon_of_the_Mists dbo:author dbr:Deborah_Turner_Harris ;
+    dbo:releaseYear "1994-01-01"^^xsd:gYear .
+
+dbr:Calhoun dbo:author <http://dbpedia.org/resource/Diana_Palmer_(author)> ;
+    dbo:releaseYear "1988-01-01"^^xsd:gYear .
+
+<http://dbpedia.org/resource/Calhoun_/_Justin_/_Tyler> dbo:author <http://dbpedia.org/resource/Diana_Palmer_(author)> ;
+    dbo:releaseYear "2001-01-01"^^xsd:gYear .
+
+<http://dbpedia.org/resource/Callaghan%27s_Bride> dbo:author <http://dbpedia.org/resource/Diana_Palmer_(author)> ;
+    dbo:releaseYear "1999-01-01"^^xsd:gYear .
+
+<http://dbpedia.org/resource/Carrera%27s_Bride> dbo:author <http://dbpedia.org/resource/Diana_Palmer_(author)> ;
+    dbo:releaseYear "2003-01-01"^^xsd:gYear .
+
+<http://dbpedia.org/resource/Casey_Webber%2C_The_Great> dbo:author dbr:Hazel_Hutchins ;
+    dbo:releaseYear "1988-01-01"^^xsd:gYear .
+
+<http://dbpedia.org/resource/Cattleman%27s_Choice> dbo:author <http://dbpedia.org/resource/Diana_Palmer_(author)> ;
+    dbo:literaryGenre dbr:Novel ;
+    dbo:releaseYear "1985-01-01"^^xsd:gYear .
+
+<http://dbpedia.org/resource/Cattleman%27s_Pride> dbo:author <http://dbpedia.org/resource/Diana_Palmer_(author)> ;
+    dbo:releaseYear "2004-01-01"^^xsd:gYear .
+
+<http://dbpedia.org/resource/Cattleman%27s_Pride_/_Wild_in_the_Moonlight> dbo:author <http://dbpedia.org/resource/Diana_Palmer_(author)> ;
+    dbo:literaryGenre dbr:Anthology ;
+    dbo:releaseYear "2005-01-01"^^xsd:gYear .
+
+<http://dbpedia.org/resource/Cattleman%27s_Woman> dbo:author <http://dbpedia.org/resource/Diana_Palmer_(author)> ;
+    dbo:literaryGenre dbr:Anthology ;
+    dbo:releaseYear "2008-01-01"^^xsd:gYear .
+
+dbr:Chain_Letters dbo:author dbr:Dmitry_Bykov ;
+    dbo:literaryGenre dbr:Poetry ;
+    dbo:releaseYear "2006-01-01"^^xsd:gYear .
+
+dbr:Champagne_Girl dbo:author <http://dbpedia.org/resource/Diana_Palmer_(author)> ;
+    dbo:literaryGenre dbr:Novel ;
+    dbo:releaseYear "1986-01-01"^^xsd:gYear .
+
+<http://dbpedia.org/resource/Champagne_Girl_/_Mystery_Man> dbo:author <http://dbpedia.org/resource/Diana_Palmer_(author)> ;
+    dbo:releaseYear "2004-01-01"^^xsd:gYear .
+
+<http://dbpedia.org/resource/Change_The_Story%2C_Change_the_Future> dbo:author dbr:David_Korten ;
+    dbo:releaseYear "2015-01-01"^^xsd:gYear .
+
+dbr:Christmas_Cowboy dbo:author <http://dbpedia.org/resource/Diana_Palmer_(author)> ;
+    dbo:releaseYear "1997-01-01"^^xsd:gYear .
+
+dbr:Christmas_Memories dbo:author <http://dbpedia.org/resource/Diana_Palmer_(author)> ;
+    dbo:releaseYear "1994-01-01"^^xsd:gYear .
+
+<http://dbpedia.org/resource/Christoph_Irenius%3A_Eine_wahrhafte_Geschichte.> dbo:author dbr:Christophe_Moehrlen ;
+    dbo:releaseYear "1839-01-01"^^xsd:gYear .
+
+dbr:Chronicles_of_Immediate_War dbo:author dbr:Dmitry_Bykov ;
+    dbo:literaryGenre dbr:Essay ;
+    dbo:releaseYear "2005-01-01"^^xsd:gYear .
+
+dbr:Circle_of_Gold dbo:author <http://dbpedia.org/resource/Diana_Palmer_(author)> ;
+    dbo:literaryGenre dbr:Novel ;
+    dbo:releaseYear "2000-01-01"^^xsd:gYear .
+
+dbr:City_of_Screams dbo:author dbr:James_Rollins .
+
+dbr:Civil_War_Blunders dbo:author dbr:Clint_Johnson ;
+    dbo:isbn "0-89587-163-7"^^xsd:string ;
+    dbo:releaseYear "1997-01-01"^^xsd:gYear .
+
+<http://dbpedia.org/resource/Colonial_America_and_the_American_Revolution%3A_The_25_Best_Sites> dbo:author dbr:Clint_Johnson ;
+    dbo:isbn "0-9766013-2-X"^^xsd:string ;
+    dbo:releaseYear "2006-01-01"^^xsd:gYear .
+
+dbr:Color_Love_Blue dbo:author <http://dbpedia.org/resource/Diana_Palmer_(author)> ;
+    dbo:literaryGenre dbr:Novel ;
+    dbo:releaseYear "1984-01-01"^^xsd:gYear .
+
+<http://dbpedia.org/resource/Coltrain%27s_Proposal> dbo:author <http://dbpedia.org/resource/Diana_Palmer_(author)> ;
+    dbo:releaseYear "1996-01-01"^^xsd:gYear .
+
+<http://dbpedia.org/resource/Community_Management%3A_Asian_Experience_and_Perspectives> dbo:author dbr:David_Korten ;
+    dbo:releaseYear "1986-01-01"^^xsd:gYear .
+
+dbr:Complete_Novels dbo:author dbr:Carson_McCullers ;
+    dbo:isbn "978-1-931082-03-7"^^xsd:string ;
+    dbo:releaseYear "2001-01-01"^^xsd:gYear .
+
+<http://dbpedia.org/resource/Comprehending_the_Incomprehensible%3A_The_history%2C_heroism_and_lessons_of_the_Holocaust%2C> dbo:author dbr:Hanoch_Teller ;
+    dbo:releaseYear "2007-01-01"^^xsd:gYear .
+
+<http://dbpedia.org/resource/Conan_the_Barbarian_%281982_novel%29> dbo:author dbr:Catherine_Crook_de_Camp ;
+    dbo:releaseYear "1982-01-01"^^xsd:gYear .
+
+dbr:Connal dbo:author <http://dbpedia.org/resource/Diana_Palmer_(author)> ;
+    dbo:releaseYear "1990-01-01"^^xsd:gYear .
+
+dbr:Connection_Generation dbo:author dbr:Iggy_Pintado ;
+    dbo:releaseYear "2008-01-01"^^xsd:gYear .
+
+dbr:Courageous dbo:author <http://dbpedia.org/resource/Diana_Palmer_(author)> ;
+    dbo:releaseYear "2012-01-01"^^xsd:gYear .
+
+<http://dbpedia.org/resource/Cowboy_and_the_Lady_/_Passion_Flower_/_After_the_Music> dbo:author <http://dbpedia.org/resource/Diana_Palmer_(author)> ;
+    dbo:releaseYear "1993-01-01"^^xsd:gYear .
+
+dbr:Creatures_of_the_Cosmos dbo:author dbr:Catherine_Crook_de_Camp ;
+    dbo:releaseYear "1977-01-01"^^xsd:gYear .
+
+dbr:Crimebusting_and_Detection dbo:author dbr:Hélène_Boudreau ;
+    dbo:literaryGenre dbr:Non-fiction ;
+    dbo:releaseYear "2009-01-01"^^xsd:gYear .
+
+dbr:Criticism_in_Antiquity dbo:author <http://dbpedia.org/resource/Donald_Russell_(classicist)> ;
+    dbo:releaseYear "1981-01-01"^^xsd:gYear .
+
+dbr:Crowned_Hearts dbo:author <http://dbpedia.org/resource/Diana_Palmer_(author)> ;
+    dbo:literaryGenre dbr:Anthology ;
+    dbo:releaseYear "2001-01-01"^^xsd:gYear .
+
+dbr:Crushed dbo:author dbr:Deborah_Coonts ;
+    dbo:isbn "978-0996571296"^^xsd:string ;
+    dbo:releaseYear "2016-01-01"^^xsd:gYear .
+
+dbr:D._Nytchenko_International_Prize dbo:author dbr:Ivan_Feodosiyovych_Korsak ;
+    dbo:releaseYear "2010-01-01"^^xsd:gYear .
+
+dbr:Dangerous dbo:author <http://dbpedia.org/resource/Diana_Palmer_(author)> ;
+    dbo:releaseYear "2010-01-01"^^xsd:gYear .
+
+dbr:Dark_Surrender dbo:author <http://dbpedia.org/resource/Diana_Palmer_(author)> ;
+    dbo:literaryGenre dbr:Novel ;
+    dbo:releaseYear "1984-01-01"^^xsd:gYear .
+
+dbr:Dark_Valley_Destiny dbo:author dbr:Catherine_Crook_de_Camp ;
+    dbo:isbn "0-312-94074-2"^^xsd:string ;
+    dbo:literaryGenre dbr:Non-fiction ;
+    dbo:releaseYear "1983-01-01"^^xsd:gYear .
+
+dbr:Darling_Enemy dbo:author <http://dbpedia.org/resource/Diana_Palmer_(author)> ;
+    dbo:releaseYear "1983-01-01"^^xsd:gYear .
+
+dbr:Darwin_and_His_Great_Discovery dbo:author dbr:Catherine_Crook_de_Camp ;
+    dbo:literaryGenre dbr:Non-fiction ;
+    dbo:releaseYear "1972-01-01"^^xsd:gYear .
+
+<http://dbpedia.org/resource/Das_Buch_der_Wahrheitszeugen_oder_der_theuern_protestantisch-evangelischen_Kirche_ununterbrochene_Fortdauer_in_allen_Jahrhunderten._Geschichtserz%C3%A4hlungen_f%C3%BCr_Schule_und_Haus.> dbo:author dbr:Christophe_Moehrlen ;
+    dbo:releaseYear "1844-01-01"^^xsd:gYear .
+
+dbr:Das_Geheimnis_des_Mithras-Tempels dbo:author dbr:Ilka_Stitz ;
+    dbo:isbn "978-3-89425-603-6"^^xsd:string ;
+    dbo:releaseYear "2006-01-01"^^xsd:gYear .
+
+dbr:Das_Gold_der_Erde dbo:author dbr:Ilka_Stitz ;
+    dbo:releaseYear "2004-01-01"^^xsd:gYear .
+
+<http://dbpedia.org/resource/Das_Verm%C3%A4chtnis_der_Colonia_Ulpia_Traiana> dbo:author dbr:Ilka_Stitz ;
+    dbo:releaseYear "2004-01-01"^^xsd:gYear .
+
+dbr:Dead_Silence._Stories_on_the_Jeju_Massacre dbo:author dbr:Hyun_Ki-young ;
+    dbo:isbn "1-891936-80-8"^^xsd:string ;
+    dbo:releaseYear "2007-01-01"^^xsd:gYear .
+
+dbr:Declaration_of_Independence dbo:author dbr:Dmitry_Bykov ;
+    dbo:literaryGenre dbr:Poetry ;
+    dbo:releaseYear "1992-01-01"^^xsd:gYear .
+
+dbr:Deep_Fathom dbo:author dbr:James_Rollins ;
+    dbo:literaryGenre dbr:Novel ;
+    dbo:releaseYear "2001-01-01"^^xsd:gYear .
+
+dbr:Defender dbo:author <http://dbpedia.org/resource/Diana_Palmer_(author)> ;
+    dbo:releaseYear "2016-01-01"^^xsd:gYear .
+
+dbr:Denim_and_Lace dbo:author <http://dbpedia.org/resource/Diana_Palmer_(author)> ;
+    dbo:literaryGenre dbr:Novel ;
+    dbo:releaseYear "1986-01-01"^^xsd:gYear .
+
+dbr:Der_klerikale_Witz dbo:author dbr:Hans_Bemmann ;
+    dbo:releaseYear "1970-01-01"^^xsd:gYear .
+
+dbr:Desperado dbo:author <http://dbpedia.org/resource/Diana_Palmer_(author)> ;
+    dbo:releaseYear "2002-01-01"^^xsd:gYear .
+
+dbr:Destination_Mars dbo:author <http://dbpedia.org/resource/Hugh_Walters_(author)> ;
+    dbo:isbn "0571113338"^^xsd:string ;
+    dbo:releaseYear "1963-01-01"^^xsd:gYear .
+
+dbr:Diamond_Girl dbo:author <http://dbpedia.org/resource/Diana_Palmer_(author)> ;
+    dbo:literaryGenre dbr:Novel ;
+    dbo:releaseYear "1983-01-01"^^xsd:gYear .
+
+dbr:Diamond_Spur dbo:author <http://dbpedia.org/resource/Diana_Palmer_(author)> ;
+    dbo:literaryGenre dbr:Novel ;
+    dbo:releaseYear "1988-01-01"^^xsd:gYear .
+
+dbr:Diamond_in_the_Rough dbo:author <http://dbpedia.org/resource/Diana_Palmer_(author)> ;
+    dbo:releaseYear "2009-01-01"^^xsd:gYear .
+
+dbr:Die_Entflammten dbo:author dbr:Ilka_Stitz ;
+    dbo:releaseYear "2009-01-01"^^xsd:gYear .
+
+<http://dbpedia.org/resource/Die_G%C3%A4rten_der_L%C3%B6win> dbo:author dbr:Hans_Bemmann ;
+    dbo:releaseYear "1993-01-01"^^xsd:gYear .
+
+<http://dbpedia.org/resource/Die_G%C3%B6tter_sind_m%C3%BCde> dbo:author dbr:Ilka_Stitz ;
+    dbo:releaseYear "2005-01-01"^^xsd:gYear .
+
+dbr:Die_Venus_von_Schloss_Dyck dbo:author dbr:Ilka_Stitz ;
+    dbo:isbn "978-3-936783-16-2"^^xsd:string ;
+    dbo:releaseYear "2006-01-01"^^xsd:gYear .
+
+dbr:Die_Verzauberten dbo:author dbr:Hans_Bemmann .
+
+<http://dbpedia.org/resource/Dio_Chrysostom%2C_Orations_7%2C_12%2C_36> dbo:author <http://dbpedia.org/resource/Donald_Russell_(classicist)> ;
+    dbo:releaseYear "1992-01-01"^^xsd:gYear .
+
+dbr:Dity_Yafeta dbo:author dbr:Ivan_Feodosiyovych_Korsak ;
+    dbo:releaseYear "2010-01-01"^^xsd:gYear .
+
+<http://dbpedia.org/resource/Do_You_Believe_in_Miracles%3F%3A_True_stories_celebrating_Divine_Providence> dbo:author dbr:Hanoch_Teller ;
+    dbo:releaseYear "1996-01-01"^^xsd:gYear .
+
+<http://dbpedia.org/resource/Do_You_Take_This_Man%3F> dbo:author <http://dbpedia.org/resource/Diana_Palmer_(author)> ;
+    dbo:literaryGenre dbr:Anthology ;
+    dbo:releaseYear "1998-01-01"^^xsd:gYear .
+
+dbr:Donavan dbo:author <http://dbpedia.org/resource/Diana_Palmer_(author)> ;
+    dbo:releaseYear "1992-01-01"^^xsd:gYear .
+
+<http://dbpedia.org/resource/Dream%27s_End> dbo:author <http://dbpedia.org/resource/Diana_Palmer_(author)> ;
+    dbo:literaryGenre dbr:Novel ;
+    dbo:releaseYear "1980-01-01"^^xsd:gYear .
+
+<http://dbpedia.org/resource/Dzieci_Jafeta%26nbsp%3B> dbo:author dbr:Ivan_Feodosiyovych_Korsak ;
+    dbo:releaseYear "2016-01-01"^^xsd:gYear .
+
+dbr:Eines_jeden_Kreuz dbo:author dbr:Ilka_Stitz ;
+    dbo:releaseYear "2002-01-01"^^xsd:gYear .
+
+dbr:Emmet dbo:author <http://dbpedia.org/resource/Diana_Palmer_(author)> ;
+    dbo:releaseYear "1992-01-01"^^xsd:gYear .
+
+dbr:Emmett_Regan_and_Burke dbo:author <http://dbpedia.org/resource/Diana_Palmer_(author)> ;
+    dbo:releaseYear "1999-01-01"^^xsd:gYear .
+
+<http://dbpedia.org/resource/Emmett_and_Regan%3A_Emmett_/_Regan%27s_Pride> dbo:author <http://dbpedia.org/resource/Diana_Palmer_(author)> ;
+    dbo:releaseYear "2005-01-01"^^xsd:gYear .
+
+dbr:Enamored dbo:author <http://dbpedia.org/resource/Diana_Palmer_(author)> ;
+    dbo:releaseYear "1988-01-01"^^xsd:gYear .
+
+<http://dbpedia.org/resource/Encore_Romances%3A_Three_Complete_Love_Stories> dbo:author <http://dbpedia.org/resource/Diana_Palmer_(author)> ;
+    dbo:releaseYear "1979-01-01"^^xsd:gYear .
+
+<http://dbpedia.org/resource/Erwins_Badezimmer%2C_oder_die_Gef%C3%A4hrlichkeit_der_Sprache> dbo:author dbr:Hans_Bemmann ;
+    dbo:releaseYear "1984-01-01"^^xsd:gYear .
+
+dbr:Escapade dbo:author <http://dbpedia.org/resource/Diana_Palmer_(author)> ;
+    dbo:literaryGenre dbr:Novel ;
+    dbo:releaseYear "1992-01-01"^^xsd:gYear .
+
+dbr:Ethan dbo:author <http://dbpedia.org/resource/Diana_Palmer_(author)> ;
+    dbo:releaseYear "1990-01-01"^^xsd:gYear .
+
+dbr:Evan dbo:author <http://dbpedia.org/resource/Diana_Palmer_(author)> ;
+    dbo:releaseYear "1991-01-01"^^xsd:gYear .
+
+dbr:Evangeline dbo:author dbr:Hélène_Boudreau ;
+    dbo:releaseYear "2013-01-01"^^xsd:gYear .
+
+dbr:Excavation dbo:author dbr:James_Rollins ;
+    dbo:literaryGenre dbr:Novel ;
+    dbo:releaseYear "2000-01-01"^^xsd:gYear .
+
+dbr:Expedition_Venus dbo:author <http://dbpedia.org/resource/Hugh_Walters_(author)> ;
+    dbo:isbn "9780571112692"^^xsd:string ;
+    dbo:releaseYear "1962-01-01"^^xsd:gYear .
+
+dbr:Eye_of_the_Tiger dbo:author <http://dbpedia.org/resource/Diana_Palmer_(author)> ;
+    dbo:literaryGenre dbr:Novel ;
+    dbo:releaseYear "1986-01-01"^^xsd:gYear .
+
+<http://dbpedia.org/resource/Fade%2C_Sag%2C_Crumble%3A_Ten_Las_Vegas_Writers_Confront_Decay> dbo:author dbr:Deborah_Coonts ;
+    dbo:isbn "978-1932173796"^^xsd:string ;
+    dbo:literaryGenre dbr:Non-fiction ;
+    dbo:releaseYear "2011-01-01"^^xsd:gYear .
+
+dbr:Farewell_to_the_Cuckoo dbo:author dbr:Dmitry_Bykov ;
+    dbo:releaseYear "2011-01-01"^^xsd:gYear .
+
+dbr:Fearless dbo:author <http://dbpedia.org/resource/Diana_Palmer_(author)> ;
+    dbo:releaseYear "2008-01-01"^^xsd:gYear .
+
+dbr:Fire_Brand dbo:author <http://dbpedia.org/resource/Diana_Palmer_(author)> ;
+    dbo:releaseYear "1989-01-01"^^xsd:gYear .
+
+dbr:Fire_and_Ice dbo:author <http://dbpedia.org/resource/Diana_Palmer_(author)> ;
+    dbo:literaryGenre dbr:Novel ;
+    dbo:releaseYear "1983-01-01"^^xsd:gYear .
+
+<http://dbpedia.org/resource/First_Contact%3F> dbo:author <http://dbpedia.org/resource/Hugh_Walters_(author)> ;
+    dbo:isbn "0840763204"^^xsd:string ;
+    dbo:releaseYear "1971-01-01"^^xsd:gYear .
+
+dbr:First_Family_on_the_Moon dbo:author <http://dbpedia.org/resource/Hugh_Walters_(author)> ;
+    dbo:releaseYear "1979-01-01"^^xsd:gYear .
+
+dbr:Fit_for_a_King dbo:author <http://dbpedia.org/resource/Diana_Palmer_(author)> ;
+    dbo:releaseYear "1987-01-01"^^xsd:gYear .
+
+dbr:Footprints_on_Sand dbo:author dbr:Catherine_Crook_de_Camp ;
+    dbo:releaseYear "1981-01-01"^^xsd:gYear .
+
+dbr:Fortescue dbo:author dbr:James_Sheridan_Knowles ;
+    dbo:releaseYear "1847-01-01"^^xsd:gYear .
+
+dbr:French_Dramatists_of_the_Nineteenth_Century dbo:author dbr:Brander_Matthews ;
+    dbo:releaseYear "1881-01-01"^^xsd:gYear .
+
+dbr:Fridge_magnets_are_Bastards dbo:author dbr:Mark_Dapin ;
+    dbo:isbn "978-0-7322-8521-0"^^xsd:string ;
+    dbo:releaseYear "2007-01-01"^^xsd:gYear .
+
+dbr:Friends_and_Lovers dbo:author <http://dbpedia.org/resource/Diana_Palmer_(author)> ;
+    dbo:releaseYear "1983-01-01"^^xsd:gYear .
+
+<http://dbpedia.org/resource/From_the_Trenches%3A_the_best_ANZAC_writing_of_World_War_One> dbo:author dbr:Mark_Dapin ;
+    dbo:isbn "978-0-6700-7781-6"^^xsd:string ;
+    dbo:releaseYear "2013-01-01"^^xsd:gYear .
+
+dbr:Fugitive_Pieces dbo:author dbr:James_Sheridan_Knowles ;
+    dbo:literaryGenre dbr:Poetry .
+
+dbr:Fugitives_from_Justice dbo:author dbr:Brander_Matthews ;
+    dbo:releaseYear "1912-01-01"^^xsd:gYear .
+
+dbr:Garden_Cop dbo:author <http://dbpedia.org/resource/Diana_Palmer_(author)> ;
+    dbo:literaryGenre dbr:Novel ;
+    dbo:releaseYear "2002-01-01"^^xsd:gYear .
+
+dbr:George_Lovell dbo:author dbr:James_Sheridan_Knowles ;
+    dbo:releaseYear "1852-01-01"^^xsd:gYear .
+
+<http://dbpedia.org/resource/Geschichte_der_Waldenser%3A_von_ihrem_Ursprunge_an_bis_auf_unsere_Zeit.> dbo:author dbr:Christophe_Moehrlen ;
+    dbo:releaseYear "1844-01-01"^^xsd:gYear .
+
+<http://dbpedia.org/resource/Getting_to_the_21st_Century%3A_Voluntary_Action_and_the_Global_Agenda> dbo:author dbr:David_Korten ;
+    dbo:releaseYear "1990-01-01"^^xsd:gYear .
+
+<http://dbpedia.org/resource/Gewinne_der_G%C3%B6tter_Gunst> dbo:author dbr:Ilka_Stitz ;
+    dbo:releaseYear "2007-01-01"^^xsd:gYear .
+
+dbr:Globalizing_Civil_Society dbo:author dbr:David_Korten ;
+    dbo:releaseYear "2010-01-01"^^xsd:gYear .
+
+dbr:Gogol_International_Literary_Prize dbo:author dbr:Ivan_Feodosiyovych_Korsak ;
+    dbo:releaseYear "2008-01-01"^^xsd:gYear .
+
+dbr:Greek_Declamation dbo:author <http://dbpedia.org/resource/Donald_Russell_(classicist)> ;
+    dbo:releaseYear "1983-01-01"^^xsd:gYear .
+
+dbr:Green-Eyed_Thieves dbo:author dbr:Imraan_Coovadia ;
+    dbo:releaseYear "2006-01-01"^^xsd:gYear .
+
+<http://dbpedia.org/resource/Guernica_%28magazine%29> dbo:author dbr:Idra_Novey ;
+    dbo:releaseYear "2011-01-01"^^xsd:gYear .
+
+<http://dbpedia.org/resource/Guernica_%28magazine%29_%2C_2014%29> dbo:author dbr:Idra_Novey ;
+    dbo:releaseYear "2014-01-01"^^xsd:gYear .
+
+dbr:H._Skovoroda_International_Prize dbo:author dbr:Ivan_Feodosiyovych_Korsak ;
+    dbo:releaseYear "2009-01-01"^^xsd:gYear .
+
+dbr:Hard_To_Handle dbo:author <http://dbpedia.org/resource/Diana_Palmer_(author)> ;
+    dbo:releaseYear "2007-01-01"^^xsd:gYear .
+
+dbr:Harden dbo:author <http://dbpedia.org/resource/Diana_Palmer_(author)> ;
+    dbo:releaseYear "1991-01-01"^^xsd:gYear .
+
+dbr:Harlequin dbo:author <http://dbpedia.org/resource/Diana_Palmer_(author)> ;
+    dbo:literaryGenre dbr:Anthology ;
+    dbo:releaseYear "1997-01-01"^^xsd:gYear .
+
+<http://dbpedia.org/resource/Harper%27s_Bazaar> dbo:author dbr:Carson_McCullers ;
+    dbo:releaseYear "1942-01-01"^^xsd:gYear .
+
+dbr:Heart_of_Ice dbo:author <http://dbpedia.org/resource/Diana_Palmer_(author)> ;
+    dbo:literaryGenre dbr:Novel ;
+    dbo:releaseYear "1984-01-01"^^xsd:gYear .
+
+dbr:Heart_of_Stone dbo:author <http://dbpedia.org/resource/Diana_Palmer_(author)> ;
+    dbo:releaseYear "2008-01-01"^^xsd:gYear .
+
+<http://dbpedia.org/resource/Heart_of_Stone_/_Falling_for_the_Lone_Wolf> dbo:author <http://dbpedia.org/resource/Diana_Palmer_(author)> ;
+    dbo:literaryGenre dbr:Anthology ;
+    dbo:releaseYear "2008-01-01"^^xsd:gYear .
+
+dbr:Heart_of_Winter dbo:author <http://dbpedia.org/resource/Diana_Palmer_(author)> ;
+    dbo:releaseYear "2006-01-01"^^xsd:gYear .
+
+dbr:Heart_of_a_Stranger dbo:author <http://dbpedia.org/resource/Diana_Palmer_(author)> ;
+    dbo:releaseYear "2006-01-01"^^xsd:gYear .
+
+dbr:Heartbreaker dbo:author <http://dbpedia.org/resource/Diana_Palmer_(author)> ;
+    dbo:releaseYear "2006-01-01"^^xsd:gYear .
+
+<http://dbpedia.org/resource/Heartbreaker_/_Scandals_from_the_Third_Bride> dbo:author <http://dbpedia.org/resource/Diana_Palmer_(author)> ;
+    dbo:literaryGenre dbr:Anthology ;
+    dbo:releaseYear "2007-01-01"^^xsd:gYear .
+
+dbr:Heartless dbo:author <http://dbpedia.org/resource/Diana_Palmer_(author)> ;
+    dbo:releaseYear "2009-01-01"^^xsd:gYear .
+
+<http://dbpedia.org/resource/Heather%27s_Song> dbo:author <http://dbpedia.org/resource/Diana_Palmer_(author)> ;
+    dbo:releaseYear "1983-01-01"^^xsd:gYear .
+
+dbr:Her_Kind_of_Hero dbo:author <http://dbpedia.org/resource/Diana_Palmer_(author)> ;
+    dbo:releaseYear "2009-01-01"^^xsd:gYear .
+
+<http://dbpedia.org/resource/Heraclitus_%3A_Homeric_problems> dbo:author <http://dbpedia.org/resource/Donald_Russell_(classicist)> ;
+    dbo:releaseYear "2005-01-01"^^xsd:gYear .
+
+dbr:Hetmanych_Orlyk dbo:author dbr:Ivan_Feodosiyovych_Korsak ;
+    dbo:releaseYear "2006-01-01"^^xsd:gYear .
+
+dbr:High_low_in-between dbo:author dbr:Imraan_Coovadia ;
+    dbo:releaseYear "2009-01-01"^^xsd:gYear .
+
+dbr:Hinterland dbo:author dbr:James_Rollins ;
+    dbo:releaseYear "2006-01-01"^^xsd:gYear .
+
+<http://dbpedia.org/resource/His_Father%27s_Son> dbo:author dbr:Brander_Matthews ;
+    dbo:releaseYear "1895-01-01"^^xsd:gYear .
+
+dbr:His_Girl_Friday dbo:author <http://dbpedia.org/resource/Diana_Palmer_(author)> ;
+    dbo:releaseYear "1989-01-01"^^xsd:gYear .
+
+<http://dbpedia.org/resource/Histoire_biblique_pour_les_%C3%A9coles_et_les_familles.> dbo:author dbr:Christophe_Moehrlen ;
+    dbo:releaseYear "1850-01-01"^^xsd:gYear .
+
+dbr:Honorary_Citizen_of_Lutsk_and_Kamin-Kashyrsky dbo:author dbr:Ivan_Feodosiyovych_Korsak .
+
+dbr:Hoodwinked dbo:author <http://dbpedia.org/resource/Diana_Palmer_(author)> ;
+    dbo:releaseYear "1989-01-01"^^xsd:gYear .
+
+<http://dbpedia.org/resource/How_Putin_Became_President_of_the_USA_%3A_New_Russian_Fairy_Tales> dbo:author dbr:Dmitry_Bykov ;
+    dbo:releaseYear "2005-01-01"^^xsd:gYear .
+
+dbr:Hunter dbo:author <http://dbpedia.org/resource/Diana_Palmer_(author)> ;
+    dbo:releaseYear "1990-01-01"^^xsd:gYear .
+
+dbr:Husbands_on_Horseback dbo:author <http://dbpedia.org/resource/Diana_Palmer_(author)> ;
+    dbo:literaryGenre dbr:Anthology ;
+    dbo:releaseYear "1996-01-01"^^xsd:gYear .
+
+<http://dbpedia.org/resource/I%27d_Know_You_Anywhere> dbo:author dbr:Hazel_Hutchins ;
+    dbo:releaseYear "2002-01-01"^^xsd:gYear .
+
+dbr:I_Dare_You_Not_To_Yawn dbo:author dbr:Hélène_Boudreau ;
+    dbo:releaseYear "2013-01-01"^^xsd:gYear .
+
+dbr:Ice_Hunt dbo:author dbr:James_Rollins ;
+    dbo:literaryGenre dbr:Novel ;
+    dbo:releaseYear "2003-01-01"^^xsd:gYear .
+
+dbr:If_Winter_Comes dbo:author <http://dbpedia.org/resource/Diana_Palmer_(author)> ;
+    dbo:literaryGenre dbr:Novel ;
+    dbo:releaseYear "1979-01-01"^^xsd:gYear .
+
+<http://dbpedia.org/resource/If_Winter_Comes_/_Now_and_Forever> dbo:author <http://dbpedia.org/resource/Diana_Palmer_(author)> ;
+    dbo:releaseYear "1990-01-01"^^xsd:gYear .
+
+dbr:Illumination_and_Night_Glare dbo:author dbr:Carson_McCullers ;
+    dbo:releaseYear "1999-01-01"^^xsd:gYear .
+
+<http://dbpedia.org/resource/Imena_Tvoy%C3%AF> dbo:author dbr:Ivan_Feodosiyovych_Korsak ;
+    dbo:releaseYear "2007-01-01"^^xsd:gYear .
+
+dbr:In_Place_of_Life dbo:author dbr:Dmitry_Bykov ;
+    dbo:literaryGenre dbr:Essay ;
+    dbo:releaseYear "2006-01-01"^^xsd:gYear .
+
+dbr:In_a_Void dbo:author dbr:Dmitry_Bykov ;
+    dbo:literaryGenre dbr:Essay ;
+    dbo:releaseYear "2008-01-01"^^xsd:gYear .
+
+dbr:In_the_Footsteps_of_J.E.B._Stuart dbo:author dbr:Clint_Johnson ;
+    dbo:isbn "0-89587-261-7"^^xsd:string ;
+    dbo:releaseYear "2003-01-01"^^xsd:gYear .
+
+dbr:In_the_Footsteps_of_Robert_E._Lee dbo:author dbr:Clint_Johnson ;
+    dbo:isbn "0-89587-235-8"^^xsd:string ;
+    dbo:releaseYear "2001-01-01"^^xsd:gYear .
+
+dbr:In_the_Footsteps_of_Stonewall_Jackson dbo:author dbr:Clint_Johnson ;
+    dbo:isbn "0-89587-244-7"^^xsd:string ;
+    dbo:releaseYear "2002-01-01"^^xsd:gYear .
+
+dbr:In_the_Vestibule_Limited dbo:author dbr:Brander_Matthews ;
+    dbo:releaseYear "1892-01-01"^^xsd:gYear .
+
+<http://dbpedia.org/resource/In_the_World_of_Animals%3A_A_Children%27s_Book_for_Adults%2C_An_Adults%27_Book_for_Children> dbo:author dbr:Dmitry_Bykov ;
+    dbo:releaseYear "2005-01-01"^^xsd:gYear .
+
+dbr:Indiana_Jones_and_the_Kingdom_of_the_Crystal_Skull dbo:author dbr:James_Rollins ;
+    dbo:literaryGenre dbr:Novel ;
+    dbo:releaseYear "2008-01-01"^^xsd:gYear .
+
+dbr:Innocent_Blood dbo:author dbr:James_Rollins ;
+    dbo:releaseYear "2013-01-01"^^xsd:gYear .
+
+dbr:Introduction_to_the_Study_of_American_literature dbo:author dbr:Brander_Matthews ;
+    dbo:releaseYear "1911-01-01"^^xsd:gYear .
+
+dbr:Invincible dbo:author <http://dbpedia.org/resource/Diana_Palmer_(author)> ;
+    dbo:releaseYear "2014-01-01"^^xsd:gYear .
+
+dbr:Iron_Cowboy dbo:author <http://dbpedia.org/resource/Diana_Palmer_(author)> ;
+    dbo:releaseYear "2008-01-01"^^xsd:gYear .
+
+<http://dbpedia.org/resource/Iron_Cowboy_/_Seduced_by_the_Rich_Man> dbo:author <http://dbpedia.org/resource/Diana_Palmer_(author)> ;
+    dbo:literaryGenre dbr:Anthology ;
+    dbo:releaseYear "2008-01-01"^^xsd:gYear .
+
+dbr:Irresistible dbo:author <http://dbpedia.org/resource/Diana_Palmer_(author)> ;
+    dbo:literaryGenre dbr:Anthology ;
+    dbo:releaseYear "2005-01-01"^^xsd:gYear .
+
+<http://dbpedia.org/resource/It%27s_Raining%2C_Yancy_and_Bear> dbo:author dbr:Hazel_Hutchins ;
+    dbo:releaseYear "1998-01-01"^^xsd:gYear .
+
+<http://dbpedia.org/resource/J%C3%A4ger_im_Park> dbo:author dbr:Hans_Bemmann ;
+    dbo:releaseYear "1961-01-01"^^xsd:gYear .
+
+dbr:Jake_Ransom_and_the_Howling_Sphinx dbo:author dbr:James_Rollins ;
+    dbo:releaseYear "2011-01-01"^^xsd:gYear .
+
+<http://dbpedia.org/resource/Jake_Ransom_and_the_Skull_King%27s_Shadow> dbo:author dbr:James_Rollins ;
+    dbo:releaseYear "2009-01-01"^^xsd:gYear .
+
+<http://dbpedia.org/resource/Jewish_Stories_from_Heaven_and_Earth%3A_Inspiring_tales_to_nourish_the_heart_and_soul> dbo:author dbr:Hanoch_Teller ;
+    dbo:isbn "1580233635"^^xsd:string ;
+    dbo:releaseYear "2008-01-01"^^xsd:gYear .
+
+<http://dbpedia.org/resource/John_of_Procida%3B_or%2C_The_Bridals_of_Messina> dbo:author dbr:James_Sheridan_Knowles ;
+    dbo:releaseYear "1840-01-01"^^xsd:gYear .
+
+dbr:Journey_to_Jupiter dbo:author <http://dbpedia.org/resource/Hugh_Walters_(author)> ;
+    dbo:releaseYear "1965-01-01"^^xsd:gYear .
+
+<http://dbpedia.org/resource/Jung_stirbt%2C_wen_die_G%C3%B6tter_lieben> dbo:author dbr:Ilka_Stitz ;
+    dbo:isbn "978-3-89425-610-4"^^xsd:string ;
+    dbo:releaseYear "2009-01-01"^^xsd:gYear .
+
+dbr:Justification dbo:author dbr:Dmitry_Bykov ;
+    dbo:releaseYear "2001-01-01"^^xsd:gYear .
+
+dbr:Justin dbo:author <http://dbpedia.org/resource/Diana_Palmer_(author)> ;
+    dbo:releaseYear "1988-01-01"^^xsd:gYear .
+
+<http://dbpedia.org/resource/KEEP_OUT%21> dbo:author dbr:Hélène_Boudreau ;
+    dbo:releaseYear "2010-01-01"^^xsd:gYear .
+
+dbr:Kaniyar_Kirtan dbo:author dbr:Hemchandra_Barua ;
+    dbo:releaseYear "1861-01-01"^^xsd:gYear .
+
+<http://dbpedia.org/resource/Kapelan_Armi%C3%AF_UNR> dbo:author dbr:Ivan_Feodosiyovych_Korsak ;
+    dbo:releaseYear "2009-01-01"^^xsd:gYear .
+
+dbr:Karunos_Deimanto_Paslaptis dbo:author dbr:Ivan_Feodosiyovych_Korsak ;
+    dbo:releaseYear "2011-01-01"^^xsd:gYear .
+
+<http://dbpedia.org/resource/Katie%27s_Babbling_Brother> dbo:author dbr:Hazel_Hutchins ;
+    dbo:releaseYear "1991-01-01"^^xsd:gYear .
+
+<http://dbpedia.org/resource/King%27s_Ransom> dbo:author <http://dbpedia.org/resource/Diana_Palmer_(author)> ;
+    dbo:releaseYear "1993-01-01"^^xsd:gYear .
+
+dbr:King_of_the_Cross dbo:author dbr:Mark_Dapin ;
+    dbo:isbn "978-1-4050-3962-8"^^xsd:string ;
+    dbo:releaseYear "2009-01-01"^^xsd:gYear .
+
+dbr:Korona_Yuriya_II dbo:author dbr:Ivan_Feodosiyovych_Korsak ;
+    dbo:releaseYear "2011-01-01"^^xsd:gYear .
+
+<http://dbpedia.org/resource/L%C3%A4stiger_Besuch> dbo:author dbr:Hans_Bemmann ;
+    dbo:releaseYear "1963-01-01"^^xsd:gYear .
+
+dbr:Lacy dbo:author <http://dbpedia.org/resource/Diana_Palmer_(author)> ;
+    dbo:releaseYear "1991-01-01"^^xsd:gYear .
+
+dbr:Lady_Love dbo:author <http://dbpedia.org/resource/Diana_Palmer_(author)> ;
+    dbo:literaryGenre dbr:Novel ;
+    dbo:releaseYear "1984-01-01"^^xsd:gYear .
+
+dbr:Last_Time dbo:author dbr:Dmitry_Bykov ;
+    dbo:literaryGenre dbr:Poetry ;
+    dbo:releaseYear "2007-01-01"^^xsd:gYear .
+
+dbr:Lawless dbo:author <http://dbpedia.org/resource/Diana_Palmer_(author)> ;
+    dbo:releaseYear "2003-01-01"^^xsd:gYear .
+
+dbr:Lawman dbo:author <http://dbpedia.org/resource/Diana_Palmer_(author)> ;
+    dbo:releaseYear "2007-01-01"^^xsd:gYear .
+
+dbr:Leanna_Builds_a_Genie_Trap dbo:author dbr:Hazel_Hutchins ;
+    dbo:releaseYear "1986-01-01"^^xsd:gYear .
+
+dbr:Lectures_on_Dramatic_Literature dbo:author dbr:James_Sheridan_Knowles ;
+    dbo:literaryGenre dbr:Non-fiction ;
+    dbo:releaseYear "1875-01-01"^^xsd:gYear .
+
+<http://dbpedia.org/resource/Leo%3B_or%2C_The_Gipsy> dbo:author dbr:James_Sheridan_Knowles ;
+    dbo:releaseYear "1810-01-01"^^xsd:gYear .
+
+dbr:Let_Me_Tell_You dbo:author <http://dbpedia.org/resource/Birmingham_Group_(authors)> ;
+    dbo:releaseYear "1938-01-01"^^xsd:gYear .
+
+<http://dbpedia.org/resource/Libanius%3A_Imaginary_Speeches> dbo:author <http://dbpedia.org/resource/Donald_Russell_(classicist)> ;
+    dbo:releaseYear "1996-01-01"^^xsd:gYear .
+
+dbr:Life_In_A_Residential_City dbo:author dbr:Hélène_Boudreau ;
+    dbo:literaryGenre dbr:Non-fiction ;
+    dbo:releaseYear "2010-01-01"^^xsd:gYear .
+
+dbr:Life_in_a_Fishing_Community dbo:author dbr:Hélène_Boudreau ;
+    dbo:literaryGenre dbr:Non-fiction ;
+    dbo:releaseYear "2010-01-01"^^xsd:gYear .
+
+dbr:Lionhearted dbo:author <http://dbpedia.org/resource/Diana_Palmer_(author)> ;
+    dbo:releaseYear "2002-01-01"^^xsd:gYear .
+
+<http://dbpedia.org/resource/Lionhearted_/_Instinctive_Male> dbo:author <http://dbpedia.org/resource/Diana_Palmer_(author)> ;
+    dbo:literaryGenre dbr:Anthology ;
+    dbo:releaseYear "2004-01-01"^^xsd:gYear .
+
+dbr:Listed_out dbo:author dbr:Dmitry_Bykov ;
+    dbo:releaseYear "2008-01-01"^^xsd:gYear .
+
+dbr:Lone_Star_Christmas dbo:author <http://dbpedia.org/resource/Diana_Palmer_(author)> ;
+    dbo:literaryGenre dbr:Anthology ;
+    dbo:releaseYear "1997-01-01"^^xsd:gYear .
+
+dbr:Lone_Star_Christmas..._and_Other_Gifts dbo:author <http://dbpedia.org/resource/Diana_Palmer_(author)> ;
+    dbo:literaryGenre dbr:Anthology ;
+    dbo:releaseYear "1999-01-01"^^xsd:gYear .
+
+<http://dbpedia.org/resource/Long%2C_Tall_Texan_Weddings> dbo:author <http://dbpedia.org/resource/Diana_Palmer_(author)> ;
+    dbo:releaseYear "2001-01-01"^^xsd:gYear .
+
+<http://dbpedia.org/resource/Long%2C_Tall_Texans_2> dbo:author <http://dbpedia.org/resource/Diana_Palmer_(author)> ;
+    dbo:releaseYear "1995-01-01"^^xsd:gYear .
+
+<http://dbpedia.org/resource/Long%2C_Tall_Texans_III> dbo:author <http://dbpedia.org/resource/Diana_Palmer_(author)> ;
+    dbo:releaseYear "1997-01-01"^^xsd:gYear .
+
+dbr:Longinus_On_the_Sublime dbo:author <http://dbpedia.org/resource/Donald_Russell_(classicist)> ;
+    dbo:releaseYear "1964-01-01"^^xsd:gYear .
+
+dbr:Lord_of_the_Desert dbo:author <http://dbpedia.org/resource/Diana_Palmer_(author)> ;
+    dbo:releaseYear "2000-01-01"^^xsd:gYear .
+
+dbr:Love dbo:author dbr:James_Sheridan_Knowles ;
+    dbo:releaseYear "1839-01-01"^^xsd:gYear .
+
+<http://dbpedia.org/resource/Love%27s_Legacy_Omnibus> dbo:author <http://dbpedia.org/resource/Diana_Palmer_(author)> ;
+    dbo:literaryGenre dbr:Anthology ;
+    dbo:releaseYear "1996-01-01"^^xsd:gYear .
+
+dbr:Love_By_Proxy dbo:author <http://dbpedia.org/resource/Diana_Palmer_(author)> ;
+    dbo:literaryGenre dbr:Novel ;
+    dbo:releaseYear "1985-01-01"^^xsd:gYear .
+
+dbr:Love_at_First_Sight dbo:author dbr:Brander_Matthews ;
+    dbo:releaseYear "1885-01-01"^^xsd:gYear .
+
+dbr:Love_on_Trial dbo:author <http://dbpedia.org/resource/Diana_Palmer_(author)> ;
+    dbo:literaryGenre dbr:Novel ;
+    dbo:releaseYear "1980-01-01"^^xsd:gYear .
+
+<http://dbpedia.org/resource/Love_with_a_Long%2C_Tall_Texan> dbo:author <http://dbpedia.org/resource/Diana_Palmer_(author)> ;
+    dbo:releaseYear "1999-01-01"^^xsd:gYear .
+
+dbr:Loveplay dbo:author <http://dbpedia.org/resource/Diana_Palmer_(author)> ;
+    dbo:literaryGenre dbr:Novel ;
+    dbo:releaseYear "1986-01-01"^^xsd:gYear .
+
+dbr:Lover_Come_Back dbo:author <http://dbpedia.org/resource/Diana_Palmer_(author)> ;
+    dbo:literaryGenre dbr:Anthology ;
+    dbo:releaseYear "1994-01-01"^^xsd:gYear .
+
+dbr:Lucky_Bang dbo:author dbr:Deborah_Coonts ;
+    dbo:releaseYear "2015-01-01"^^xsd:gYear .
+
+dbr:Lucky_Bastard dbo:author dbr:Deborah_Coonts ;
+    dbo:isbn "978-0996571227"^^xsd:string ;
+    dbo:releaseYear "2015-01-01"^^xsd:gYear .
+
+dbr:Lucky_Break dbo:author dbr:Deborah_Coonts ;
+    dbo:isbn "978-0996571272"^^xsd:string ;
+    dbo:releaseYear "2015-01-01"^^xsd:gYear .
+
+dbr:Lucky_Catch dbo:author dbr:Deborah_Coonts ;
+    dbo:isbn "978-0985792596"^^xsd:string ;
+    dbo:releaseYear "2015-01-01"^^xsd:gYear .
+
+dbr:Lucky_Flash dbo:author dbr:Deborah_Coonts ;
+    dbo:releaseYear "2015-01-01"^^xsd:gYear .
+
+dbr:Lucky_In_Love dbo:author dbr:Deborah_Coonts ;
+    dbo:releaseYear "2015-01-01"^^xsd:gYear .
+
+<http://dbpedia.org/resource/Lucky_Now_and_Then%3A_Parts_One_and_Two> dbo:author dbr:Deborah_Coonts ;
+    dbo:releaseYear "2015-01-01"^^xsd:gYear .
+
+<http://dbpedia.org/resource/Lucky_Shorts%3A_A_Lucky_O%27Toole_Original_Novella_Bundle> dbo:author dbr:Deborah_Coonts ;
+    dbo:isbn "978-0996571234"^^xsd:string ;
+    dbo:releaseYear "2015-01-01"^^xsd:gYear .
+
+dbr:Lucky_Stiff dbo:author dbr:Deborah_Coonts ;
+    dbo:isbn "978-0996571203"^^xsd:string ;
+    dbo:releaseYear "2015-01-01"^^xsd:gYear .
+
+<http://dbpedia.org/resource/Mademoiselle_%28magazine%29> dbo:author dbr:Carson_McCullers ;
+    dbo:releaseYear "1950-01-01"^^xsd:gYear .
+
+<http://dbpedia.org/resource/Maggie%27s_Dad> dbo:author <http://dbpedia.org/resource/Diana_Palmer_(author)> ;
+    dbo:releaseYear "1995-01-01"^^xsd:gYear .
+
+<http://dbpedia.org/resource/Maggie%27s_Dad_and_Man_of_Ice> dbo:author <http://dbpedia.org/resource/Diana_Palmer_(author)> ;
+    dbo:releaseYear "2004-01-01"^^xsd:gYear .
+
+dbr:Magnolia dbo:author <http://dbpedia.org/resource/Diana_Palmer_(author)> ;
+    dbo:literaryGenre dbr:Novel ;
+    dbo:releaseYear "1997-01-01"^^xsd:gYear .
+
+dbr:Male_Carriage dbo:author dbr:Dmitry_Bykov ;
+    dbo:releaseYear "2012-01-01"^^xsd:gYear .
+
+<http://dbpedia.org/resource/Man_Of_The_Hour%3A_Night_Of_Love_/_Secret_Agent_Man> dbo:author <http://dbpedia.org/resource/Diana_Palmer_(author)> ;
+    dbo:releaseYear "2008-01-01"^^xsd:gYear .
+
+dbr:Man_in_Control dbo:author <http://dbpedia.org/resource/Diana_Palmer_(author)> ;
+    dbo:releaseYear "2003-01-01"^^xsd:gYear .
+
+<http://dbpedia.org/resource/Man_in_Control_/_Tempting_the_Tycoon> dbo:author <http://dbpedia.org/resource/Diana_Palmer_(author)> ;
+    dbo:literaryGenre dbr:Anthology ;
+    dbo:releaseYear "2003-01-01"^^xsd:gYear .
+
+<http://dbpedia.org/resource/Man_in_Control_/_Thorn%27s_Challenge> dbo:author <http://dbpedia.org/resource/Diana_Palmer_(author)> ;
+    dbo:literaryGenre dbr:Anthology ;
+    dbo:releaseYear "2004-01-01"^^xsd:gYear .
+
+dbr:Man_of_Ice dbo:author <http://dbpedia.org/resource/Diana_Palmer_(author)> ;
+    dbo:releaseYear "1996-01-01"^^xsd:gYear .
+
+<http://dbpedia.org/resource/Margery%27s_Lovers> dbo:author dbr:Brander_Matthews ;
+    dbo:releaseYear "1884-01-01"^^xsd:gYear .
+
+dbr:Married_by_Christmas dbo:author <http://dbpedia.org/resource/Diana_Palmer_(author)> ;
+    dbo:literaryGenre dbr:Anthology ;
+    dbo:releaseYear "2008-01-01"^^xsd:gYear .
+
+<http://dbpedia.org/resource/Massimo_Battisti_%E2%80%93_Von_einem%2C_der_das_Zaubern_lernen_wollte> dbo:author dbr:Hans_Bemmann ;
+    dbo:releaseYear "1998-01-01"^^xsd:gYear .
+
+<http://dbpedia.org/resource/Matt_Caldwell%3A_Texas_Tycoon> dbo:author <http://dbpedia.org/resource/Diana_Palmer_(author)> ;
+    dbo:releaseYear "2000-01-01"^^xsd:gYear .
+
+dbr:Means_Test_Man dbo:author <http://dbpedia.org/resource/Birmingham_Group_(authors)> ;
+    dbo:releaseYear "1935-01-01"^^xsd:gYear .
+
+dbr:Men_of_Honour dbo:author <http://dbpedia.org/resource/Diana_Palmer_(author)> ;
+    dbo:literaryGenre dbr:Anthology ;
+    dbo:releaseYear "2004-01-01"^^xsd:gYear .
+
+dbr:Men_of_the_West dbo:author <http://dbpedia.org/resource/Diana_Palmer_(author)> ;
+    dbo:releaseYear "2004-01-01"^^xsd:gYear .
+
+dbr:Menander_Rhetor dbo:author <http://dbpedia.org/resource/Donald_Russell_(classicist)> ;
+    dbo:releaseYear "1981-01-01"^^xsd:gYear .
+
+<http://dbpedia.org/resource/Mercenary%27s_Woman> dbo:author <http://dbpedia.org/resource/Diana_Palmer_(author)> ;
+    dbo:releaseYear "2000-01-01"^^xsd:gYear .
+
+dbr:Merciless dbo:author <http://dbpedia.org/resource/Diana_Palmer_(author)> ;
+    dbo:releaseYear "2011-01-01"^^xsd:gYear .
+
+dbr:Midnight_Rider dbo:author <http://dbpedia.org/resource/Diana_Palmer_(author)> ;
+    dbo:literaryGenre dbr:Novel ;
+    dbo:releaseYear "1998-01-01"^^xsd:gYear .
+
+dbr:Military_Coup dbo:author dbr:Dmitry_Bykov ;
+    dbo:literaryGenre dbr:Poetry ;
+    dbo:releaseYear "1996-01-01"^^xsd:gYear .
+
+dbr:Miraculous_Medicines dbo:author dbr:Hélène_Boudreau ;
+    dbo:literaryGenre dbr:Non-fiction ;
+    dbo:releaseYear "2009-01-01"^^xsd:gYear .
+
+dbr:Miss_Greenhorn dbo:author <http://dbpedia.org/resource/Diana_Palmer_(author)> ;
+    dbo:literaryGenre dbr:Novel ;
+    dbo:releaseYear "1990-01-01"^^xsd:gYear,
+        "2009-01-01"^^xsd:gYear .
+
+dbr:Mission_to_Mercury dbo:author <http://dbpedia.org/resource/Hugh_Walters_(author)> ;
+    dbo:releaseYear "1965-01-01"^^xsd:gYear .
+
+dbr:Mit_eiserner_Zunge dbo:author dbr:Ilka_Stitz ;
+    dbo:releaseYear "2010-01-01"^^xsd:gYear .
+
+<http://dbpedia.org/resource/Moli%C3%A8re_%3A_His_Life_and_Works> dbo:author dbr:Brander_Matthews ;
+    dbo:releaseYear "1910-01-01"^^xsd:gYear .
+
+dbr:Montana_Brides dbo:author <http://dbpedia.org/resource/Diana_Palmer_(author)> ;
+    dbo:literaryGenre dbr:Anthology ;
+    dbo:releaseYear "1999-01-01"^^xsd:gYear .
+
+dbr:Moon_Base_One dbo:author <http://dbpedia.org/resource/Hugh_Walters_(author)> ;
+    dbo:releaseYear "1960-01-01"^^xsd:gYear .
+
+dbr:More_Than_Words dbo:author <http://dbpedia.org/resource/Diana_Palmer_(author)> ;
+    dbo:literaryGenre dbr:Anthology ;
+    dbo:releaseYear "2004-01-01"^^xsd:gYear .
+
+dbr:Motherhood dbo:author <http://dbpedia.org/resource/Diana_Palmer_(author)> ;
+    dbo:literaryGenre dbr:Anthology ;
+    dbo:releaseYear "2005-01-01"^^xsd:gYear .
+
+dbr:Murder_on_Mars dbo:author <http://dbpedia.org/resource/Hugh_Walters_(author)> ;
+    dbo:isbn "0571107176"^^xsd:string ;
+    dbo:releaseYear "1975-01-01"^^xsd:gYear .
+
+dbr:Myslyvtsi_za_Marevom dbo:author dbr:Ivan_Feodosiyovych_Korsak ;
+    dbo:releaseYear "2014-01-01"^^xsd:gYear .
+
+dbr:Mystery_Man dbo:author <http://dbpedia.org/resource/Diana_Palmer_(author)> ;
+    dbo:literaryGenre dbr:Novel ;
+    dbo:releaseYear "1997-01-01"^^xsd:gYear .
+
+dbr:Na_Mezhi dbo:author dbr:Ivan_Feodosiyovych_Korsak ;
+    dbo:releaseYear "2013-01-01"^^xsd:gYear .
+
+dbr:National_Poetry_Series dbo:author dbr:Idra_Novey ;
+    dbo:releaseYear "2012-01-01"^^xsd:gYear .
+
+dbr:Nearly_Neptune dbo:author <http://dbpedia.org/resource/Hugh_Walters_(author)> ;
+    dbo:releaseYear "1968-01-01"^^xsd:gYear .
+
+<http://dbpedia.org/resource/Nelson%27s_Brand> dbo:author <http://dbpedia.org/resource/Diana_Palmer_(author)> ;
+    dbo:literaryGenre dbr:Novel ;
+    dbo:releaseYear "1991-01-01"^^xsd:gYear .
+
+dbr:Nemyrychiv_Kluch dbo:author dbr:Ivan_Feodosiyovych_Korsak ;
+    dbo:releaseYear "2012-01-01"^^xsd:gYear .
+
+dbr:New_Chain_Letters dbo:author dbr:Dmitry_Bykov ;
+    dbo:literaryGenre dbr:Poetry ;
+    dbo:releaseYear "2010-01-01"^^xsd:gYear .
+
+dbr:New_York_Post dbo:author dbr:Carson_McCullers ;
+    dbo:releaseYear "1951-01-01"^^xsd:gYear .
+
+dbr:New_and_Newest_Chain_Letters dbo:author dbr:Dmitry_Bykov ;
+    dbo:literaryGenre dbr:Poetry ;
+    dbo:releaseYear "2012-01-01"^^xsd:gYear .
+
+dbr:Nicholas_at_the_Library dbo:author dbr:Hazel_Hutchins ;
+    dbo:releaseYear "1990-01-01"^^xsd:gYear .
+
+dbr:Night_Fever dbo:author <http://dbpedia.org/resource/Diana_Palmer_(author)> ;
+    dbo:literaryGenre dbr:Novel ;
+    dbo:releaseYear "1990-01-01"^^xsd:gYear .
+
+dbr:Night_of_Love dbo:author <http://dbpedia.org/resource/Diana_Palmer_(author)> ;
+    dbo:releaseYear "1993-01-01"^^xsd:gYear .
+
+dbr:Noelle dbo:author <http://dbpedia.org/resource/Diana_Palmer_(author)> ;
+    dbo:literaryGenre dbr:Novel ;
+    dbo:releaseYear "1995-01-01"^^xsd:gYear .
+
+dbr:Nora dbo:author <http://dbpedia.org/resource/Diana_Palmer_(author)> ;
+    dbo:literaryGenre dbr:Novel ;
+    dbo:releaseYear "1994-01-01"^^xsd:gYear .
+
+<http://dbpedia.org/resource/Norman%27s_Snowball> dbo:author dbr:Hazel_Hutchins ;
+    dbo:releaseYear "1989-01-01"^^xsd:gYear .
+
+dbr:Now_and_Forever dbo:author <http://dbpedia.org/resource/Diana_Palmer_(author)> ;
+    dbo:literaryGenre dbr:Novel ;
+    dbo:releaseYear "1979-01-01"^^xsd:gYear .
+
+<http://dbpedia.org/resource/Now_and_Forever_/_Meeting_At_Midnight_/_Castaway_Heart> dbo:author <http://dbpedia.org/resource/Diana_Palmer_(author)> ;
+    dbo:literaryGenre dbr:Anthology ;
+    dbo:releaseYear "1979-01-01"^^xsd:gYear .
+
+dbr:Oksamyt_Nezdavnenykh_Lit dbo:author dbr:Ivan_Feodosiyovych_Korsak ;
+    dbo:releaseYear "2000-01-01"^^xsd:gYear .
+
+dbr:Old_Adventures dbo:author dbr:James_Sheridan_Knowles ;
+    dbo:releaseYear "1859-01-01"^^xsd:gYear .
+
+dbr:Old_Maids dbo:author dbr:James_Sheridan_Knowles ;
+    dbo:releaseYear "1841-01-01"^^xsd:gYear .
+
+dbr:On_Acting dbo:author dbr:Brander_Matthews ;
+    dbo:releaseYear "1914-01-01"^^xsd:gYear .
+
+dbr:On_Elegance_While_Sleeping dbo:author dbr:Idra_Novey ;
+    dbo:releaseYear "2010-01-01"^^xsd:gYear .
+
+<http://dbpedia.org/resource/Once_in_Paris_/_Rage_of_Passion_/_Paper_Rose> dbo:author <http://dbpedia.org/resource/Diana_Palmer_(author)> ;
+    dbo:releaseYear "2000-01-01"^^xsd:gYear .
+
+dbr:Once_in_a_Paris dbo:author <http://dbpedia.org/resource/Diana_Palmer_(author)> ;
+    dbo:releaseYear "1998-01-01"^^xsd:gYear .
+
+dbr:One_Dark_Night dbo:author dbr:Hazel_Hutchins ;
+    dbo:releaseYear "2001-01-01"^^xsd:gYear .
+
+dbr:One_Duck dbo:author dbr:Hazel_Hutchins ;
+    dbo:releaseYear "1999-01-01"^^xsd:gYear .
+
+dbr:One_Hot_Summer dbo:author <http://dbpedia.org/resource/Diana_Palmer_(author)> ;
+    dbo:literaryGenre dbr:Anthology ;
+    dbo:releaseYear "2007-01-01"^^xsd:gYear .
+
+dbr:One_Spoon_on_This_Earth dbo:author dbr:Hyun_Ki-young ;
+    dbo:isbn "978-1564789150"^^xsd:string ;
+    dbo:releaseYear "2013-01-01"^^xsd:gYear .
+
+dbr:One_of_a_Kind dbo:author <http://dbpedia.org/resource/Diana_Palmer_(author)> ;
+    dbo:literaryGenre dbr:Anthology ;
+    dbo:releaseYear "2008-01-01"^^xsd:gYear .
+
+dbr:Operation_Columbus dbo:author <http://dbpedia.org/resource/Hugh_Walters_(author)> ;
+    dbo:isbn "115120322X"^^xsd:string ;
+    dbo:releaseYear "1959-01-01"^^xsd:gYear .
+
+dbr:Order_of_St._George_the_Victorious dbo:author dbr:Ivan_Feodosiyovych_Korsak .
+
+dbr:Order_of_the_Archangel_Michael dbo:author dbr:Ivan_Feodosiyovych_Korsak .
+
+dbr:Orthography dbo:author dbr:Dmitry_Bykov ;
+    dbo:releaseYear "2003-01-01"^^xsd:gYear .
+
+<http://dbpedia.org/resource/Ostromov%2C_or_The_Magician%27s_Apprentice> dbo:author dbr:Dmitry_Bykov ;
+    dbo:releaseYear "2010-01-01"^^xsd:gYear .
+
+dbr:Otaman_Chaika dbo:author dbr:Ivan_Feodosiyovych_Korsak ;
+    dbo:releaseYear "2010-01-01"^^xsd:gYear .
+
+dbr:Outsider dbo:author <http://dbpedia.org/resource/Diana_Palmer_(author)> ;
+    dbo:releaseYear "2006-01-01"^^xsd:gYear .
+
+dbr:P-K dbo:author <http://dbpedia.org/resource/Hugh_Walters_(author)> ;
+    dbo:isbn "978-0-7278-1364-0"^^xsd:string ;
+    dbo:releaseYear "1986-01-01"^^xsd:gYear .
+
+<http://dbpedia.org/resource/PURSUIT%3A_The_Chase%2C_Capture%2C_Persecution_and_Surprising_Release_of_Confederate_President_Jefferson_Davis> dbo:author dbr:Clint_Johnson ;
+    dbo:isbn "978-0-8065-2890-8"^^xsd:string ;
+    dbo:releaseYear "2008-01-01"^^xsd:gYear .
+
+dbr:Panteleimon_Kulish_Literary_Prize dbo:author dbr:Ivan_Feodosiyovych_Korsak ;
+    dbo:releaseYear "2013-01-01"^^xsd:gYear .
+
+dbr:Paper_Husband dbo:author <http://dbpedia.org/resource/Diana_Palmer_(author)> ;
+    dbo:releaseYear "1996-01-01"^^xsd:gYear .
+
+dbr:Paper_Rose dbo:author <http://dbpedia.org/resource/Diana_Palmer_(author)> ;
+    dbo:releaseYear "1999-01-01"^^xsd:gYear .
+
+<http://dbpedia.org/resource/Parts_of_Speech%2C_Essays_on_English> dbo:author dbr:Brander_Matthews ;
+    dbo:releaseYear "1901-01-01"^^xsd:gYear .
+
+dbr:Passage_to_Pluto dbo:author <http://dbpedia.org/resource/Hugh_Walters_(author)> ;
+    dbo:isbn "084076457X"^^xsd:string ;
+    dbo:releaseYear "1973-01-01"^^xsd:gYear .
+
+dbr:Passion_Flower dbo:author <http://dbpedia.org/resource/Diana_Palmer_(author)> ;
+    dbo:releaseYear "1985-01-01"^^xsd:gYear .
+
+dbr:Pathmala dbo:author dbr:Hemchandra_Barua ;
+    dbo:releaseYear "1882-01-01"^^xsd:gYear .
+
+<http://dbpedia.org/resource/People-Centered_Development%3A_Contributions_Toward_Theory_and_Planning_Frameworks> dbo:author dbr:David_Korten ;
+    dbo:releaseYear "1984-01-01"^^xsd:gYear .
+
+dbr:Persten_Hanny_Barvinok dbo:author dbr:Ivan_Feodosiyovych_Korsak ;
+    dbo:releaseYear "2015-01-01"^^xsd:gYear .
+
+<http://dbpedia.org/resource/Planned_Change_in_a_Traditional_Society%3A_Psychological_Problems_of_Modernization_in_Ethiopia> dbo:author dbr:David_Korten ;
+    dbo:releaseYear "1972-01-01"^^xsd:gYear .
+
+dbr:Playwrights_on_Playmaking dbo:author dbr:Brander_Matthews ;
+    dbo:releaseYear "1923-01-01"^^xsd:gYear .
+
+dbr:Plutarch dbo:author <http://dbpedia.org/resource/Donald_Russell_(classicist)> ;
+    dbo:releaseYear "1972-01-01"^^xsd:gYear .
+
+<http://dbpedia.org/resource/Plutarch%3A_How_to_Study_Poetry> dbo:author <http://dbpedia.org/resource/Donald_Russell_(classicist)> ;
+    dbo:releaseYear "2011-01-01"^^xsd:gYear .
+
+<http://dbpedia.org/resource/Plutarch_%3A_Selected_Essays_and_Dialogues> dbo:author <http://dbpedia.org/resource/Donald_Russell_(classicist)> ;
+    dbo:releaseYear "1993-01-01"^^xsd:gYear .
+
+dbr:Poetry_Foundation dbo:author dbr:Idra_Novey ;
+    dbo:releaseYear "2012-01-01"^^xsd:gYear,
+        "2014-01-01"^^xsd:gYear,
+        "2035-01-01"^^xsd:gYear .
+
+dbr:Pokruch dbo:author dbr:Ivan_Feodosiyovych_Korsak ;
+    dbo:releaseYear "1991-01-01"^^xsd:gYear .
+
+dbr:Porhaxaliya_Abhidhaan dbo:author dbr:Hemchandra_Barua ;
+    dbo:releaseYear "1892-01-01"^^xsd:gYear .
+
+dbr:Principles_of_Playmaking dbo:author dbr:Brander_Matthews ;
+    dbo:releaseYear "1919-01-01"^^xsd:gYear .
+
+dbr:Protector dbo:author <http://dbpedia.org/resource/Diana_Palmer_(author)> ;
+    dbo:releaseYear "2013-01-01"^^xsd:gYear .
+
+<http://dbpedia.org/resource/Quintilian%3A_The_orator%E2%80%99s_education_%28Loeb_Translation%29> dbo:author <http://dbpedia.org/resource/Donald_Russell_(classicist)> ;
+    dbo:releaseYear "2001-01-01"^^xsd:gYear .
+
+<http://dbpedia.org/resource/R%26R> dbo:author dbr:Mark_Dapin ;
+    dbo:isbn "978-0-6700-7820-2"^^xsd:string ;
+    dbo:releaseYear "2015-01-01"^^xsd:gYear .
+
+dbr:Rage_of_Passion dbo:author <http://dbpedia.org/resource/Diana_Palmer_(author)> ;
+    dbo:releaseYear "1987-01-01"^^xsd:gYear .
+
+dbr:Rawhide_and_Lace dbo:author <http://dbpedia.org/resource/Diana_Palmer_(author)> ;
+    dbo:releaseYear "1986-01-01"^^xsd:gYear .
+
+dbr:Rawhide_and_Lace_and_Unlikely_Lover dbo:author <http://dbpedia.org/resource/Diana_Palmer_(author)> ;
+    dbo:releaseYear "1992-01-01"^^xsd:gYear .
+
+<http://dbpedia.org/resource/Real_Mermaids_Don%27t_Hold_Their_Breath> dbo:author dbr:Hélène_Boudreau ;
+    dbo:releaseYear "2012-01-01"^^xsd:gYear .
+
+<http://dbpedia.org/resource/Real_Mermaids_Don%27t_Need_High_Heels> dbo:author dbr:Hélène_Boudreau ;
+    dbo:releaseYear "2013-01-01"^^xsd:gYear .
+
+<http://dbpedia.org/resource/Real_Mermaids_Don%27t_Sell_Seashells> dbo:author dbr:Hélène_Boudreau ;
+    dbo:releaseYear "2013-01-01"^^xsd:gYear .
+
+<http://dbpedia.org/resource/Real_Mermaids_Don%27t_Wear_Toe_Rings> dbo:author dbr:Hélène_Boudreau ;
+    dbo:releaseYear "2010-01-01"^^xsd:gYear .
+
+dbr:Reb_Elimelech_and_the_Chassidic_Legacy_of_Brotherhood dbo:author dbr:Hanoch_Teller ;
+    dbo:releaseYear "2012-01-01"^^xsd:gYear .
+
+dbr:Redbird dbo:author <http://dbpedia.org/resource/Diana_Palmer_(author)> ;
+    dbo:releaseYear "1995-01-01"^^xsd:gYear .
+
+<http://dbpedia.org/resource/Redbird_/_Cattleman%27s_Pride> dbo:author <http://dbpedia.org/resource/Diana_Palmer_(author)> ;
+    dbo:releaseYear "2004-01-01"^^xsd:gYear .
+
+<http://dbpedia.org/resource/Regan%27s_Pride> dbo:author <http://dbpedia.org/resource/Diana_Palmer_(author)> ;
+    dbo:releaseYear "1994-01-01"^^xsd:gYear .
+
+dbr:Reluctant_Father dbo:author <http://dbpedia.org/resource/Diana_Palmer_(author)> ;
+    dbo:releaseYear "1989-01-01"^^xsd:gYear .
+
+dbr:Removal_Service dbo:author dbr:Dmitry_Bykov ;
+    dbo:releaseYear "2005-01-01"^^xsd:gYear .
+
+dbr:Renegade dbo:author <http://dbpedia.org/resource/Diana_Palmer_(author)> ;
+    dbo:releaseYear "2004-01-01"^^xsd:gYear .
+
+dbr:Reprieve dbo:author dbr:Dmitry_Bykov ;
+    dbo:literaryGenre dbr:Poetry ;
+    dbo:releaseYear "2000-01-01"^^xsd:gYear .
+
+<http://dbpedia.org/resource/Robyn%27s_Art_Attack> dbo:author dbr:Hazel_Hutchins ;
+    dbo:releaseYear "2002-01-01"^^xsd:gYear .
+
+<http://dbpedia.org/resource/Robyn%27s_Party-in-the-Park> dbo:author dbr:Hazel_Hutchins ;
+    dbo:releaseYear "2004-01-01"^^xsd:gYear .
+
+<http://dbpedia.org/resource/Robyn%27s_Want_Ad> dbo:author dbr:Hazel_Hutchins ;
+    dbo:releaseYear "1998-01-01"^^xsd:gYear .
+
+dbr:Robyn_Make_the_News dbo:author dbr:Hazel_Hutchins ;
+    dbo:releaseYear "2003-01-01"^^xsd:gYear .
+
+dbr:Robyn_and_the_Bears dbo:author dbr:Hazel_Hutchins ;
+    dbo:releaseYear "2000-01-01"^^xsd:gYear .
+
+dbr:Rogue_Stallion dbo:author <http://dbpedia.org/resource/Diana_Palmer_(author)> ;
+    dbo:releaseYear "1994-01-01"^^xsd:gYear .
+
+dbr:Roomful_of_Roses dbo:author <http://dbpedia.org/resource/Diana_Palmer_(author)> ;
+    dbo:literaryGenre dbr:Novel ;
+    dbo:releaseYear "1984-01-01"^^xsd:gYear .
+
+dbr:Royal_Weddings dbo:author <http://dbpedia.org/resource/Diana_Palmer_(author)> ;
+    dbo:literaryGenre dbr:Anthology ;
+    dbo:releaseYear "1996-01-01"^^xsd:gYear .
+
+dbr:Russell dbo:author <http://dbpedia.org/resource/Donald_Russell_(classicist)> ;
+    dbo:releaseYear "1780-01-01"^^xsd:gYear .
+
+dbr:Sarah_and_the_Magic_Science_Project dbo:author dbr:Hazel_Hutchins ;
+    dbo:releaseYear "2005-01-01"^^xsd:gYear .
+
+dbr:Saturday_Night_at_the_Greyhound dbo:author <http://dbpedia.org/resource/Birmingham_Group_(authors)> ;
+    dbo:releaseYear "1931-01-01"^^xsd:gYear .
+
+dbr:School_on_the_Moon dbo:author <http://dbpedia.org/resource/Hugh_Walters_(author)> ;
+    dbo:isbn "0200727435"^^xsd:string ;
+    dbo:releaseYear "1981-01-01"^^xsd:gYear .
+
+dbr:Science-Fiction_Handbook dbo:author dbr:Catherine_Crook_de_Camp ;
+    dbo:literaryGenre dbr:Non-fiction ;
+    dbo:releaseYear "1953-01-01"^^xsd:gYear .
+
+dbr:Second_Chances dbo:author <http://dbpedia.org/resource/Diana_Palmer_(author)> ;
+    dbo:releaseYear "2006-01-01"^^xsd:gYear .
+
+dbr:Secret_Agent_Man dbo:author <http://dbpedia.org/resource/Diana_Palmer_(author)> ;
+    dbo:releaseYear "1994-01-01"^^xsd:gYear .
+
+dbr:September_Morning dbo:author <http://dbpedia.org/resource/Diana_Palmer_(author)> ;
+    dbo:literaryGenre dbr:Novel ;
+    dbo:releaseYear "1982-01-01"^^xsd:gYear .
+
+<http://dbpedia.org/resource/Sex_%26_money> dbo:author dbr:Mark_Dapin ;
+    dbo:isbn "1-74114-320-9"^^xsd:string ;
+    dbo:releaseYear "2004-01-01"^^xsd:gYear .
+
+dbr:Shadowfall dbo:author dbr:James_Rollins ;
+    dbo:releaseYear "2005-01-01"^^xsd:gYear .
+
+dbr:Shakespeare_as_a_Playwright dbo:author dbr:Brander_Matthews ;
+    dbo:releaseYear "1913-01-01"^^xsd:gYear .
+
+dbr:She_Needs_a_Hero dbo:author <http://dbpedia.org/resource/Diana_Palmer_(author)> ;
+    dbo:literaryGenre dbr:Anthology ;
+    dbo:releaseYear "2006-01-01"^^xsd:gYear .
+
+<http://dbpedia.org/resource/Shoot_for_the_Moon%2C_Robyn> dbo:author dbr:Hazel_Hutchins ;
+    dbo:releaseYear "1997-01-01"^^xsd:gYear .
+
+<http://dbpedia.org/resource/Silent_Night_Man_/_Christmas_Reunion_/_Mistletoe_Masquerade> dbo:author <http://dbpedia.org/resource/Diana_Palmer_(author)> ;
+    dbo:literaryGenre dbr:Anthology ;
+    dbo:releaseYear "2008-01-01"^^xsd:gYear .
+
+dbr:Silhouette_Christmas_Stories_1987 dbo:author <http://dbpedia.org/resource/Diana_Palmer_(author)> ;
+    dbo:literaryGenre dbr:Anthology ;
+    dbo:releaseYear "1987-01-01"^^xsd:gYear .
+
+<http://dbpedia.org/resource/Silhouette_Summer_Sizzlers%2C_Book_2> dbo:author <http://dbpedia.org/resource/Diana_Palmer_(author)> ;
+    dbo:literaryGenre dbr:Anthology ;
+    dbo:releaseYear "1990-01-01"^^xsd:gYear .
+
+dbr:Sit dbo:author dbr:J._J._Howard ;
+    dbo:releaseYear "2016-01-01"^^xsd:gYear .
+
+<http://dbpedia.org/resource/Skate%2C_Robyn%2C_Skate%21> dbo:author dbr:Hazel_Hutchins ;
+    dbo:releaseYear "2004-01-01"^^xsd:gYear .
+
+dbr:Snow_Kisses dbo:author <http://dbpedia.org/resource/Diana_Palmer_(author)> ;
+    dbo:literaryGenre dbr:Novel ;
+    dbo:releaseYear "1983-01-01"^^xsd:gYear .
+
+dbr:So_Damn_Lucky dbo:author dbr:Deborah_Coonts ;
+    dbo:isbn "978-0996571210"^^xsd:string ;
+    dbo:releaseYear "2015-01-01"^^xsd:gYear .
+
+dbr:Soldier_of_Fortune dbo:author <http://dbpedia.org/resource/Diana_Palmer_(author)> ;
+    dbo:releaseYear "1985-01-01"^^xsd:gYear .
+
+dbr:Soldiers_of_Fortune dbo:author <http://dbpedia.org/resource/Diana_Palmer_(author)> ;
+    dbo:releaseYear "2000-01-01"^^xsd:gYear .
+
+dbr:Spaceship_to_Saturn dbo:author <http://dbpedia.org/resource/Hugh_Walters_(author)> ;
+    dbo:isbn "978-0-571-08137-0"^^xsd:string ;
+    dbo:releaseYear "1967-01-01"^^xsd:gYear .
+
+dbr:Spiral_of_Fire dbo:author dbr:Deborah_Turner_Harris ;
+    dbo:releaseYear "1989-01-01"^^xsd:gYear .
+
+dbr:Spirit_House dbo:author dbr:Mark_Dapin ;
+    dbo:isbn "978-1-4050-4018-1"^^xsd:string ;
+    dbo:releaseYear "2011-01-01"^^xsd:gYear .
+
+<http://dbpedia.org/resource/Spirits%2C_Stars%2C_and_Spells> dbo:author dbr:Catherine_Crook_de_Camp ;
+    dbo:literaryGenre dbr:Non-fiction ;
+    dbo:releaseYear "1966-01-01"^^xsd:gYear .
+
+<http://dbpedia.org/resource/Stern_der_Br%C3%BCder> dbo:author dbr:Hans_Bemmann ;
+    dbo:releaseYear "1986-01-01"^^xsd:gYear .
+
+dbr:Storm_Over_the_Lake dbo:author <http://dbpedia.org/resource/Diana_Palmer_(author)> ;
+    dbo:literaryGenre dbr:Novel ;
+    dbo:releaseYear "1980-01-01"^^xsd:gYear .
+
+<http://dbpedia.org/resource/Storm_Over_the_Lake_/_to_Have_and_to_Hold_/_Sweet_Enemy> dbo:author <http://dbpedia.org/resource/Diana_Palmer_(author)> ;
+    dbo:releaseYear "1979-01-01"^^xsd:gYear .
+
+<http://dbpedia.org/resource/Storm_over_the_Lake_/_To_Love_and_Cherish> dbo:author <http://dbpedia.org/resource/Diana_Palmer_(author)> ;
+    dbo:releaseYear "1990-01-01"^^xsd:gYear .
+
+<http://dbpedia.org/resource/StoryQuarterly_%2C> dbo:author dbr:Idra_Novey ;
+    dbo:releaseYear "2015-01-01"^^xsd:gYear .
+
+<http://dbpedia.org/resource/Story_%28magazine%29> dbo:author dbr:Carson_McCullers ;
+    dbo:releaseYear "1936-01-01"^^xsd:gYear .
+
+dbr:Strange_country dbo:author dbr:Mark_Dapin ;
+    dbo:isbn "978-1-4050-3872-0"^^xsd:string ;
+    dbo:releaseYear "2008-01-01"^^xsd:gYear .
+
+dbr:Studies_in_Local_Color dbo:author dbr:Brander_Matthews ;
+    dbo:releaseYear "1898-01-01"^^xsd:gYear .
+
+dbr:Studies_of_the_Stage dbo:author dbr:Brander_Matthews ;
+    dbo:releaseYear "1894-01-01"^^xsd:gYear .
+
+dbr:Subterranean dbo:author dbr:James_Rollins ;
+    dbo:literaryGenre dbr:Novel ;
+    dbo:releaseYear "1999-01-01"^^xsd:gYear .
+
+dbr:Sucker dbo:author dbr:Carson_McCullers .
+
+<http://dbpedia.org/resource/Sun-i_Samch%E2%80%99on> dbo:author dbr:Hyun_Ki-young ;
+    dbo:isbn "978-89-94006-22-2"^^xsd:string ;
+    dbo:releaseYear "2012-01-01"^^xsd:gYear .
+
+<http://dbpedia.org/resource/Sutton%27s_Way> dbo:author <http://dbpedia.org/resource/Diana_Palmer_(author)> ;
+    dbo:releaseYear "1989-01-01"^^xsd:gYear .
+
+dbr:Sweet_Enemy dbo:author <http://dbpedia.org/resource/Diana_Palmer_(author)> ;
+    dbo:literaryGenre dbr:Novel ;
+    dbo:releaseYear "1980-01-01"^^xsd:gYear .
+
+<http://dbpedia.org/resource/Sweet_Enemy_/_Love_on_Trial> dbo:author <http://dbpedia.org/resource/Diana_Palmer_(author)> ;
+    dbo:releaseYear "1990-01-01"^^xsd:gYear .
+
+dbr:Swimming_Science dbo:author dbr:Hélène_Boudreau ;
+    dbo:literaryGenre dbr:Non-fiction ;
+    dbo:releaseYear "2009-01-01"^^xsd:gYear .
+
+dbr:TJ_and_the_Rockets dbo:author dbr:Hazel_Hutchins ;
+    dbo:releaseYear "2004-01-01"^^xsd:gYear .
+
+dbr:TJ_and_the_Sports_Fanatic dbo:author dbr:Hazel_Hutchins ;
+    dbo:releaseYear "2006-01-01"^^xsd:gYear .
+
+dbr:T_J_and_the_Cats dbo:author dbr:Hazel_Hutchins ;
+    dbo:releaseYear "2002-01-01"^^xsd:gYear .
+
+dbr:T_J_and_the_Haunted_House dbo:author dbr:Hazel_Hutchins ;
+    dbo:releaseYear "2003-01-01"^^xsd:gYear .
+
+dbr:Take_This_Man dbo:author <http://dbpedia.org/resource/Diana_Palmer_(author)> ;
+    dbo:literaryGenre dbr:Anthology ;
+    dbo:releaseYear "2000-01-01"^^xsd:gYear .
+
+dbr:Tales_Beyond_Time dbo:author dbr:Catherine_Crook_de_Camp ;
+    dbo:releaseYear "1973-01-01"^^xsd:gYear .
+
+<http://dbpedia.org/resource/Tales_and_Novelettes_etc.> dbo:author dbr:James_Sheridan_Knowles ;
+    dbo:releaseYear "1874-01-01"^^xsd:gYear .
+
+dbr:Tales_of_the_Metric_System dbo:author dbr:Imraan_Coovadia ;
+    dbo:releaseYear "2014-01-01"^^xsd:gYear .
+
+dbr:Tangled_Destinies dbo:author <http://dbpedia.org/resource/Diana_Palmer_(author)> ;
+    dbo:literaryGenre dbr:Novel ;
+    dbo:releaseYear "1986-01-01"^^xsd:gYear .
+
+dbr:Tayemnytsya_Svyatoho_Arseniya dbo:author dbr:Ivan_Feodosiyovych_Korsak ;
+    dbo:releaseYear "2008-01-01"^^xsd:gYear .
+
+dbr:Teach_Your_Child_To_Manage_Money dbo:author dbr:Catherine_Crook_de_Camp ;
+    dbo:literaryGenre dbr:Non-fiction ;
+    dbo:releaseYear "1974-01-01"^^xsd:gYear .
+
+dbr:Tender_Love_Stories dbo:author <http://dbpedia.org/resource/Diana_Palmer_(author)> ;
+    dbo:literaryGenre dbr:Anthology ;
+    dbo:releaseYear "2001-01-01"^^xsd:gYear .
+
+dbr:Terror_by_Satellite dbo:author <http://dbpedia.org/resource/Hugh_Walters_(author)> ;
+    dbo:isbn "057111492X"^^xsd:string ;
+    dbo:releaseYear "1964-01-01"^^xsd:gYear .
+
+dbr:Tess dbo:author dbr:Hazel_Hutchins ;
+    dbo:releaseYear "1995-01-01"^^xsd:gYear .
+
+dbr:Texans_at_Heart dbo:author <http://dbpedia.org/resource/Diana_Palmer_(author)> ;
+    dbo:releaseYear "2003-01-01"^^xsd:gYear .
+
+dbr:Texas_Born dbo:author <http://dbpedia.org/resource/Diana_Palmer_(author)> ;
+    dbo:literaryGenre dbr:Novel ;
+    dbo:releaseYear "2014-01-01"^^xsd:gYear .
+
+dbr:That_Burke_Man dbo:author <http://dbpedia.org/resource/Diana_Palmer_(author)> ;
+    dbo:literaryGenre dbr:Novel ;
+    dbo:releaseYear "1995-01-01"^^xsd:gYear .
+
+dbr:That_Time_I_Joined_the_Circus dbo:author dbr:J._J._Howard ;
+    dbo:releaseYear "2013-01-01"^^xsd:gYear .
+
+<http://dbpedia.org/resource/The_25_Best_Civil_War_Sites%3A_The_Ultimate_Traveler%27s_Guide_to_Battlefields%2C_Monument_%26_Museums> dbo:author dbr:Clint_Johnson ;
+    dbo:isbn "0-9759022-4-5"^^xsd:string ;
+    dbo:releaseYear "2005-01-01"^^xsd:gYear .
+
+dbr:The_Action_and_the_Word dbo:author dbr:Brander_Matthews ;
+    dbo:releaseYear "1900-01-01"^^xsd:gYear .
+
+dbr:The_Australian dbo:author <http://dbpedia.org/resource/Diana_Palmer_(author)> ;
+    dbo:literaryGenre dbr:Novel ;
+    dbo:releaseYear "1985-01-01"^^xsd:gYear .
+
+<http://dbpedia.org/resource/The_Ballad_of_the_Sad_Caf%C3%A9_%28film%29> dbo:author dbr:Carson_McCullers .
+
+dbr:The_Bear dbo:author dbr:Dmitry_Bykov .
+
+<http://dbpedia.org/resource/The_Beggar%27s_Daughter_of_Bethnal_Green> dbo:author dbr:James_Sheridan_Knowles ;
+    dbo:releaseYear "1828-01-01"^^xsd:gYear .
+
+dbr:The_Beggar_of_Bethnal_Green dbo:author dbr:James_Sheridan_Knowles ;
+    dbo:releaseYear "1834-01-01"^^xsd:gYear .
+
+dbr:The_Best_Is_Yet_to_Come dbo:author <http://dbpedia.org/resource/Diana_Palmer_(author)> ;
+    dbo:literaryGenre dbr:Novel ;
+    dbo:releaseYear "1991-01-01"^^xsd:gYear .
+
+dbr:The_Best_of_Arlie_Zack dbo:author dbr:Hazel_Hutchins ;
+    dbo:releaseYear "1993-01-01"^^xsd:gYear .
+
+<http://dbpedia.org/resource/The_Block%3A_A_Walktrough> dbo:author dbr:Dmitry_Bykov ;
+    dbo:releaseYear "2014-01-01"^^xsd:gYear .
+
+dbr:The_Blood_Gospel dbo:author dbr:James_Rollins ;
+    dbo:releaseYear "2013-01-01"^^xsd:gYear .
+
+dbr:The_Blue_Aura dbo:author <http://dbpedia.org/resource/Hugh_Walters_(author)> ;
+    dbo:isbn "0571114237"^^xsd:string ;
+    dbo:releaseYear "1979-01-01"^^xsd:gYear .
+
+dbr:The_Bones_of_Zora dbo:author dbr:Catherine_Crook_de_Camp ;
+    dbo:literaryGenre dbr:Science_fiction ;
+    dbo:releaseYear "1983-01-01"^^xsd:gYear .
+
+dbr:The_Bridal dbo:author dbr:James_Sheridan_Knowles ;
+    dbo:releaseYear "1847-01-01"^^xsd:gYear .
+
+dbr:The_Bride_Who_Was_Stolen dbo:author <http://dbpedia.org/resource/Diana_Palmer_(author)> ;
+    dbo:literaryGenre dbr:Novel ;
+    dbo:releaseYear "1998-01-01"^^xsd:gYear .
+
+dbr:The_Broken_Goddess dbo:author dbr:Hans_Bemmann ;
+    dbo:releaseYear "1990-01-01"^^xsd:gYear .
+
+dbr:The_Burning_Stone dbo:author dbr:Deborah_Turner_Harris ;
+    dbo:releaseYear "1986-01-01"^^xsd:gYear .
+
+dbr:The_Calendar._Speaking_of_Essential_Things dbo:author dbr:Dmitry_Bykov ;
+    dbo:literaryGenre dbr:Essay ;
+    dbo:releaseYear "2010-01-01"^^xsd:gYear .
+
+dbr:The_Calendar_2._Debating_the_Undebatable dbo:author dbr:Dmitry_Bykov ;
+    dbo:literaryGenre dbr:Essay ;
+    dbo:releaseYear "2012-01-01"^^xsd:gYear .
+
+dbr:The_Case_of_the_Confirmed_Bachelor dbo:author <http://dbpedia.org/resource/Diana_Palmer_(author)> ;
+    dbo:releaseYear "1992-01-01"^^xsd:gYear .
+
+dbr:The_Case_of_the_Mesmerizing_Boss dbo:author <http://dbpedia.org/resource/Diana_Palmer_(author)> ;
+    dbo:releaseYear "1992-01-01"^^xsd:gYear .
+
+dbr:The_Case_of_the_Missing_Secretary dbo:author <http://dbpedia.org/resource/Diana_Palmer_(author)> ;
+    dbo:releaseYear "1992-01-01"^^xsd:gYear .
+
+dbr:The_Catfish_Palace dbo:author dbr:Hazel_Hutchins ;
+    dbo:releaseYear "1993-01-01"^^xsd:gYear .
+
+dbr:The_Caves_of_Drach dbo:author <http://dbpedia.org/resource/Hugh_Walters_(author)> ;
+    dbo:isbn "0571110371"^^xsd:string ;
+    dbo:releaseYear "1977-01-01"^^xsd:gYear .
+
+dbr:The_City_of_Exile dbo:author dbr:Deborah_Turner_Harris ;
+    dbo:releaseYear "1997-01-01"^^xsd:gYear .
+
+dbr:The_Clean_Shirt_of_It dbo:author dbr:Idra_Novey ;
+    dbo:releaseYear "2007-01-01"^^xsd:gYear .
+
+dbr:The_Cowboy_and_the_Lady dbo:author <http://dbpedia.org/resource/Diana_Palmer_(author)> ;
+    dbo:releaseYear "1982-01-01"^^xsd:gYear .
+
+dbr:The_Dark_Triangle dbo:author <http://dbpedia.org/resource/Hugh_Walters_(author)> ;
+    dbo:releaseYear "1979-01-01"^^xsd:gYear .
+
+dbr:The_Daughter dbo:author dbr:James_Sheridan_Knowles ;
+    dbo:releaseYear "1837-01-01"^^xsd:gYear .
+
+dbr:The_Day_of_the_Dinosaur dbo:author dbr:Catherine_Crook_de_Camp ;
+    dbo:literaryGenre dbr:Non-fiction ;
+    dbo:releaseYear "1968-01-01"^^xsd:gYear .
+
+<http://dbpedia.org/resource/The_Debater%27s_Handbook> dbo:author dbr:James_Sheridan_Knowles ;
+    dbo:literaryGenre dbr:Non-fiction ;
+    dbo:releaseYear "1862-01-01"^^xsd:gYear .
+
+dbr:The_Debauchery_of_Work dbo:author dbr:Dmitry_Bykov ;
+    dbo:literaryGenre dbr:Essay ;
+    dbo:releaseYear "2003-01-01"^^xsd:gYear .
+
+dbr:The_Decision_of_the_Court dbo:author dbr:Brander_Matthews ;
+    dbo:releaseYear "1893-01-01"^^xsd:gYear .
+
+dbr:The_Development_of_the_Drama dbo:author dbr:Brander_Matthews ;
+    dbo:releaseYear "1903-01-01"^^xsd:gYear .
+
+dbr:The_Domes_of_Pico dbo:author <http://dbpedia.org/resource/Hugh_Walters_(author)> ;
+    dbo:releaseYear "1958-01-01"^^xsd:gYear .
+
+dbr:The_Elocutionist dbo:author dbr:James_Sheridan_Knowles ;
+    dbo:literaryGenre dbr:Non-fiction ;
+    dbo:releaseYear "1831-01-01"^^xsd:gYear .
+
+dbr:The_Eye_of_the_Tiger dbo:author <http://dbpedia.org/resource/Diana_Palmer_(author)> ;
+    dbo:literaryGenre dbr:Novel ;
+    dbo:releaseYear "2001-01-01"^^xsd:gYear .
+
+dbr:The_Father_Factor dbo:author <http://dbpedia.org/resource/Diana_Palmer_(author)> ;
+    dbo:literaryGenre dbr:Anthology ;
+    dbo:releaseYear "1998-01-01"^^xsd:gYear .
+
+dbr:The_Founding_Father dbo:author <http://dbpedia.org/resource/Diana_Palmer_(author)> ;
+    dbo:releaseYear "2003-01-01"^^xsd:gYear .
+
+dbr:The_Gauntlet_of_Malice dbo:author dbr:Deborah_Turner_Harris ;
+    dbo:releaseYear "1987-01-01"^^xsd:gYear .
+
+dbr:The_Gift_of_Story-Telling dbo:author dbr:Brander_Matthews ;
+    dbo:releaseYear "1895-01-01"^^xsd:gYear .
+
+dbr:The_Glass_Men dbo:author <http://dbpedia.org/resource/Hugh_Walters_(author)> .
+
+dbr:The_Gospel_Attributed_to_Matthew_in_the_Record_of_the_Whole_Original_Apostlehood dbo:author dbr:James_Sheridan_Knowles ;
+    dbo:releaseYear "1855-01-01"^^xsd:gYear .
+
+<http://dbpedia.org/resource/The_Great_Turning%3A_From_Empire_to_Earth_Community> dbo:author dbr:David_Korten ;
+    dbo:releaseYear "2007-01-01"^^xsd:gYear .
+
+dbr:The_Hart_Brothers_Rey_and_Leo dbo:author <http://dbpedia.org/resource/Diana_Palmer_(author)> ;
+    dbo:releaseYear "2005-01-01"^^xsd:gYear .
+
+dbr:The_Hart_Brothers_Simon_and_Callaghan dbo:author <http://dbpedia.org/resource/Diana_Palmer_(author)> ;
+    dbo:releaseYear "2005-01-01"^^xsd:gYear .
+
+dbr:The_Historical_Novel_and_Other_Essays dbo:author dbr:Brander_Matthews ;
+    dbo:releaseYear "1901-01-01"^^xsd:gYear .
+
+dbr:The_Humbug_Man dbo:author <http://dbpedia.org/resource/Diana_Palmer_(author)> ;
+    dbo:literaryGenre dbr:Novel ;
+    dbo:releaseYear "1987-01-01"^^xsd:gYear .
+
+dbr:The_Hunchback dbo:author dbr:James_Sheridan_Knowles ;
+    dbo:releaseYear "1832-01-01"^^xsd:gYear .
+
+dbr:The_Idol_Demolished_by_Its_Own_Priest dbo:author dbr:James_Sheridan_Knowles ;
+    dbo:releaseYear "1852-01-01"^^xsd:gYear .
+
+dbr:The_Incorporated_Knight dbo:author dbr:Catherine_Crook_de_Camp ;
+    dbo:isbn "0-671-65435-7"^^xsd:string ;
+    dbo:releaseYear "1987-01-01"^^xsd:gYear .
+
+dbr:The_Institute_of_Taxi_Poetry dbo:author dbr:Imraan_Coovadia ;
+    dbo:releaseYear "2012-01-01"^^xsd:gYear .
+
+dbr:The_Kill_Switch dbo:author dbr:James_Rollins ;
+    dbo:releaseYear "2014-01-01"^^xsd:gYear .
+
+dbr:The_Last_Disaster dbo:author <http://dbpedia.org/resource/Hugh_Walters_(author)> ;
+    dbo:isbn "057111153X"^^xsd:string ;
+    dbo:releaseYear "1978-01-01"^^xsd:gYear .
+
+dbr:The_Last_Horse_Herder dbo:author dbr:Hyun_Ki-young ;
+    dbo:releaseYear "1994-01-01"^^xsd:gYear .
+
+dbr:The_Last_Mercenary dbo:author <http://dbpedia.org/resource/Diana_Palmer_(author)> ;
+    dbo:releaseYear "2001-01-01"^^xsd:gYear .
+
+dbr:The_List dbo:author dbr:Hazel_Hutchins ;
+    dbo:releaseYear "2007-01-01"^^xsd:gYear .
+
+dbr:The_Love_Chase dbo:author dbr:James_Sheridan_Knowles ;
+    dbo:releaseYear "1837-01-01"^^xsd:gYear .
+
+dbr:The_Magdalen_and_Other_Tales dbo:author dbr:James_Sheridan_Knowles ;
+    dbo:releaseYear "1832-01-01"^^xsd:gYear .
+
+dbr:The_Maid_of_Mariendorpt dbo:author dbr:James_Sheridan_Knowles ;
+    dbo:releaseYear "1838-01-01"^^xsd:gYear .
+
+dbr:The_Marrying_Kind dbo:author <http://dbpedia.org/resource/Diana_Palmer_(author)> ;
+    dbo:literaryGenre dbr:Novel ;
+    dbo:releaseYear "2003-01-01"^^xsd:gYear .
+
+dbr:The_Maverick dbo:author <http://dbpedia.org/resource/Diana_Palmer_(author)> ;
+    dbo:releaseYear "2009-01-01"^^xsd:gYear .
+
+dbr:The_Men_of_Medicine_Ridge dbo:author <http://dbpedia.org/resource/Diana_Palmer_(author)> ;
+    dbo:releaseYear "2004-01-01"^^xsd:gYear .
+
+dbr:The_Millionaire_Affair dbo:author <http://dbpedia.org/resource/Diana_Palmer_(author)> ;
+    dbo:literaryGenre dbr:Anthology ;
+    dbo:releaseYear "2004-01-01"^^xsd:gYear .
+
+dbr:The_Mohole_Mystery dbo:author <http://dbpedia.org/resource/Hugh_Walters_(author)> ;
+    dbo:releaseYear "1968-01-01"^^xsd:gYear .
+
+dbr:The_Money_Tree dbo:author dbr:Catherine_Crook_de_Camp ;
+    dbo:literaryGenre dbr:Non-fiction ;
+    dbo:releaseYear "1972-01-01"^^xsd:gYear .
+
+dbr:The_Morcai_Battalion dbo:author <http://dbpedia.org/resource/Diana_Palmer_(author)> ;
+    dbo:releaseYear "1980-01-01"^^xsd:gYear .
+
+<http://dbpedia.org/resource/The_Morcai_Battalion%3A_Invictus> dbo:author <http://dbpedia.org/resource/Diana_Palmer_(author)> ;
+    dbo:releaseYear "2010-01-01"^^xsd:gYear .
+
+<http://dbpedia.org/resource/The_Morcai_Battalion%3A_The_Recruit> dbo:author <http://dbpedia.org/resource/Diana_Palmer_(author)> ;
+    dbo:releaseYear "2009-01-01"^^xsd:gYear .
+
+dbr:The_Mortgaged_Heart dbo:author dbr:Carson_McCullers ;
+    dbo:releaseYear "1972-01-01"^^xsd:gYear .
+
+dbr:The_New_Yorker dbo:author dbr:Carson_McCullers ;
+    dbo:releaseYear "1941-01-01"^^xsd:gYear .
+
+dbr:The_Next_Country dbo:author dbr:Idra_Novey ;
+    dbo:releaseYear "2005-01-01"^^xsd:gYear,
+        "2008-01-01"^^xsd:gYear .
+
+dbr:The_Oxford_Book_of_American_Essays dbo:author dbr:Brander_Matthews ;
+    dbo:releaseYear "1914-01-01"^^xsd:gYear .
+
+<http://dbpedia.org/resource/The_Passion_According_to_G.H.> dbo:author dbr:Idra_Novey ;
+    dbo:releaseYear "2012-01-01"^^xsd:gYear .
+
+dbr:The_Patient_Nurse dbo:author <http://dbpedia.org/resource/Diana_Palmer_(author)> ;
+    dbo:literaryGenre dbr:Novel ;
+    dbo:releaseYear "1997-01-01"^^xsd:gYear .
+
+dbr:The_Penguin_Book_of_Australian_War_Writing dbo:author dbr:Mark_Dapin ;
+    dbo:isbn "978-0-6700-7552-2"^^xsd:string ;
+    dbo:releaseYear "2011-01-01"^^xsd:gYear .
+
+dbr:The_Philosophy_of_the_Short-Story dbo:author dbr:Brander_Matthews ;
+    dbo:releaseYear "1901-01-01"^^xsd:gYear .
+
+dbr:The_Pixilated_Peeress dbo:author dbr:Catherine_Crook_de_Camp ;
+    dbo:releaseYear "1991-01-01"^^xsd:gYear .
+
+dbr:The_Politically_Incorrect_Guide_to_the_South dbo:author dbr:Clint_Johnson ;
+    dbo:isbn "1-59698-500-3"^^xsd:string ;
+    dbo:releaseYear "2007-01-01"^^xsd:gYear .
+
+<http://dbpedia.org/resource/The_Post_Corporate_World%3A_Life_After_Capitalism> dbo:author dbr:David_Korten ;
+    dbo:releaseYear "2000-01-01"^^xsd:gYear .
+
+dbr:The_Power_of_Love dbo:author <http://dbpedia.org/resource/Diana_Palmer_(author)> ;
+    dbo:literaryGenre dbr:Anthology ;
+    dbo:releaseYear "1999-01-01"^^xsd:gYear .
+
+dbr:The_Prince_of_Tarn dbo:author dbr:Hazel_Hutchins ;
+    dbo:releaseYear "1997-01-01"^^xsd:gYear .
+
+dbr:The_Princess_Bride dbo:author <http://dbpedia.org/resource/Diana_Palmer_(author)> ;
+    dbo:releaseYear "1998-01-01"^^xsd:gYear .
+
+dbr:The_Queen_of_Ashes dbo:author dbr:Deborah_Turner_Harris ;
+    dbo:releaseYear "1995-01-01"^^xsd:gYear .
+
+dbr:The_Rancher dbo:author <http://dbpedia.org/resource/Diana_Palmer_(author)> ;
+    dbo:literaryGenre dbr:Novel ;
+    dbo:releaseYear "2012-01-01"^^xsd:gYear .
+
+dbr:The_Rawhide_Man dbo:author <http://dbpedia.org/resource/Diana_Palmer_(author)> ;
+    dbo:literaryGenre dbr:Novel ;
+    dbo:releaseYear "1984-01-01"^^xsd:gYear .
+
+dbr:The_Recruit dbo:author dbr:Dmitry_Bykov ;
+    dbo:literaryGenre dbr:Poetry ;
+    dbo:releaseYear "2003-01-01"^^xsd:gYear .
+
+dbr:The_Report dbo:author dbr:Dmitry_Bykov ;
+    dbo:literaryGenre dbr:Poetry ;
+    dbo:releaseYear "2010-01-01"^^xsd:gYear .
+
+<http://dbpedia.org/resource/The_Righteous_Live_On%3A_Appease_process> dbo:author dbr:Hanoch_Teller .
+
+<http://dbpedia.org/resource/The_Righteous_Live_On%3A_Breaking_open_the_potential_vault> dbo:author dbr:Hanoch_Teller .
+
+<http://dbpedia.org/resource/The_Righteous_Live_On%3A_Frau_Sarah_Schenirer_and_how_the_Mirrer_Yeshiva_escaped_to_Shanghai> dbo:author dbr:Hanoch_Teller .
+
+<http://dbpedia.org/resource/The_Righteous_Live_On%3A_Rabbi_Aharon_Kotler> dbo:author dbr:Hanoch_Teller .
+
+<http://dbpedia.org/resource/The_Righteous_Live_On%3A_Rabbi_Shlomo_Zalman_Auerbach> dbo:author dbr:Hanoch_Teller .
+
+<http://dbpedia.org/resource/The_Righteous_Live_On%3A_Remembering_the_Chofetz_Chaim> dbo:author dbr:Hanoch_Teller .
+
+<http://dbpedia.org/resource/The_Righteous_Live_On%3A_We%27re_too_small_a_people%2C_to_be_a_small_people> dbo:author dbr:Hanoch_Teller .
+
+<http://dbpedia.org/resource/The_Rock_of_Rome%3B_or%2C_The_Arch_Heresy> dbo:author dbr:James_Sheridan_Knowles ;
+    dbo:releaseYear "1849-01-01"^^xsd:gYear .
+
+dbr:The_Rose_of_Arragon dbo:author dbr:James_Sheridan_Knowles ;
+    dbo:releaseYear "1842-01-01"^^xsd:gYear .
+
+dbr:The_Savage_Heart dbo:author <http://dbpedia.org/resource/Diana_Palmer_(author)> ;
+    dbo:literaryGenre dbr:Novel ;
+    dbo:releaseYear "1997-01-01"^^xsd:gYear .
+
+dbr:The_Secret_Russian_Calendar._Most_important_dates dbo:author dbr:Dmitry_Bykov ;
+    dbo:literaryGenre dbr:Essay ;
+    dbo:releaseYear "2012-01-01"^^xsd:gYear .
+
+dbr:The_Secretary dbo:author dbr:James_Sheridan_Knowles ;
+    dbo:releaseYear "1843-01-01"^^xsd:gYear .
+
+<http://dbpedia.org/resource/The_Senate%2C_or_Social_Villagers_of_Kentish_Town> dbo:author dbr:James_Sheridan_Knowles ;
+    dbo:literaryGenre dbr:Poetry ;
+    dbo:releaseYear "1817-01-01"^^xsd:gYear .
+
+dbr:The_Short_Course_of_Soviet_Literature dbo:author dbr:Dmitry_Bykov ;
+    dbo:literaryGenre dbr:Essay ;
+    dbo:releaseYear "2012-01-01"^^xsd:gYear .
+
+dbr:The_Short_Story dbo:author dbr:Brander_Matthews ;
+    dbo:releaseYear "1907-01-01"^^xsd:gYear .
+
+dbr:The_Sidewalk_Rescue dbo:author dbr:Hazel_Hutchins ;
+    dbo:releaseYear "2004-01-01"^^xsd:gYear .
+
+dbr:The_Signals dbo:author dbr:Dmitry_Bykov ;
+    dbo:releaseYear "2013-01-01"^^xsd:gYear .
+
+dbr:The_Stone_and_the_Flute dbo:author dbr:Hans_Bemmann ;
+    dbo:releaseYear "1983-01-01"^^xsd:gYear .
+
+dbr:The_Stones_of_Nomuru dbo:author dbr:Catherine_Crook_de_Camp ;
+    dbo:literaryGenre dbr:Science_fiction ;
+    dbo:releaseYear "1988-01-01"^^xsd:gYear .
+
+dbr:The_Story_of_Science_in_America dbo:author dbr:Catherine_Crook_de_Camp ;
+    dbo:literaryGenre dbr:Non-fiction ;
+    dbo:releaseYear "1967-01-01"^^xsd:gYear .
+
+dbr:The_Swords_of_Zinjaban dbo:author dbr:Catherine_Crook_de_Camp ;
+    dbo:literaryGenre dbr:Science_fiction ;
+    dbo:releaseYear "1991-01-01"^^xsd:gYear .
+
+dbr:The_Tender_Stranger dbo:author <http://dbpedia.org/resource/Diana_Palmer_(author)> ;
+    dbo:releaseYear "1985-01-01"^^xsd:gYear .
+
+dbr:The_Texas_Ranger dbo:author <http://dbpedia.org/resource/Diana_Palmer_(author)> ;
+    dbo:releaseYear "2001-01-01"^^xsd:gYear .
+
+dbr:The_Theatres_of_Paris dbo:author dbr:Brander_Matthews ;
+    dbo:releaseYear "1880-01-01"^^xsd:gYear .
+
+dbr:The_Three_and_Many_Wishes_of_Jason_Reid dbo:author dbr:Hazel_Hutchins ;
+    dbo:releaseYear "1993-01-01"^^xsd:gYear .
+
+dbr:The_Wedding dbo:author dbr:Imraan_Coovadia ;
+    dbo:releaseYear "2001-01-01"^^xsd:gYear .
+
+dbr:The_Wedding_in_White dbo:author <http://dbpedia.org/resource/Diana_Palmer_(author)> ;
+    dbo:releaseYear "2000-01-01"^^xsd:gYear .
+
+dbr:The_Wide_World_of_Suzie_Mallard dbo:author dbr:Hazel_Hutchins ;
+    dbo:releaseYear "2000-01-01"^^xsd:gYear .
+
+<http://dbpedia.org/resource/The_Wife%3B_A_Tale_of_Mantua> dbo:author dbr:James_Sheridan_Knowles ;
+    dbo:releaseYear "1833-01-01"^^xsd:gYear .
+
+dbr:The_Winter_Soldier dbo:author <http://dbpedia.org/resource/Diana_Palmer_(author)> ;
+    dbo:releaseYear "2001-01-01"^^xsd:gYear .
+
+dbr:These_Many_Years dbo:author dbr:Brander_Matthews ;
+    dbo:releaseYear "1917-01-01"^^xsd:gYear .
+
+dbr:They_Call_Me_Big_House dbo:author dbr:Clint_Johnson ;
+    dbo:isbn "0-89587-303-6"^^xsd:string ;
+    dbo:releaseYear "2004-01-01"^^xsd:gYear .
+
+dbr:Thinking_the_World dbo:author dbr:Dmitry_Bykov ;
+    dbo:literaryGenre dbr:Essay ;
+    dbo:releaseYear "2009-01-01"^^xsd:gYear .
+
+dbr:Tini_i_Polysky dbo:author dbr:Ivan_Feodosiyovych_Korsak ;
+    dbo:releaseYear "1990-01-01"^^xsd:gYear .
+
+dbr:To_Have_and_to_Hold dbo:author <http://dbpedia.org/resource/Diana_Palmer_(author)> ;
+    dbo:literaryGenre dbr:Novel ;
+    dbo:releaseYear "1980-01-01"^^xsd:gYear .
+
+<http://dbpedia.org/resource/To_Have_and_to_Hold_/_The_Cowboy_and_the_Lady> dbo:author <http://dbpedia.org/resource/Diana_Palmer_(author)> ;
+    dbo:releaseYear "1990-01-01"^^xsd:gYear .
+
+dbr:To_Love_and_to_Cherish dbo:author <http://dbpedia.org/resource/Diana_Palmer_(author)> ;
+    dbo:literaryGenre dbr:Novel ;
+    dbo:releaseYear "1980-01-01"^^xsd:gYear .
+
+<http://dbpedia.org/resource/To_Mother_With_Love_%2793> dbo:author <http://dbpedia.org/resource/Diana_Palmer_(author)> ;
+    dbo:literaryGenre dbr:Anthology ;
+    dbo:releaseYear "1993-01-01"^^xsd:gYear .
+
+dbr:Tod_und_Spiele dbo:author dbr:Ilka_Stitz ;
+    dbo:releaseYear "1999-01-01"^^xsd:gYear .
+
+<http://dbpedia.org/resource/Tony_Hale%2C_Space_Detective> dbo:author <http://dbpedia.org/resource/Hugh_Walters_(author)> ;
+    dbo:isbn "0571102719"^^xsd:string ;
+    dbo:releaseYear "1973-01-01"^^xsd:gYear .
+
+dbr:Tough_to_tame dbo:author <http://dbpedia.org/resource/Diana_Palmer_(author)> ;
+    dbo:releaseYear "2010-01-01"^^xsd:gYear .
+
+<http://dbpedia.org/resource/Touring_Virginia%27s_and_West_Virginia%27s_Civil_War_Sites> dbo:author dbr:Clint_Johnson ;
+    dbo:isbn "0-89587-184-X"^^xsd:string ;
+    dbo:releaseYear "1999-01-01"^^xsd:gYear .
+
+<http://dbpedia.org/resource/Touring_the_Carolinas%27_Civil_War_Sites> dbo:author dbr:Clint_Johnson ;
+    dbo:isbn "0-89587-146-7"^^xsd:string ;
+    dbo:releaseYear "1996-01-01"^^xsd:gYear .
+
+dbr:Tracers dbo:author dbr:J._J._Howard ;
+    dbo:releaseYear "2015-01-01"^^xsd:gYear .
+
+<http://dbpedia.org/resource/Transformations%3A_Essays> dbo:author dbr:Imraan_Coovadia ;
+    dbo:releaseYear "2012-01-01"^^xsd:gYear .
+
+dbr:Trilby dbo:author <http://dbpedia.org/resource/Diana_Palmer_(author)> ;
+    dbo:literaryGenre dbr:Novel ;
+    dbo:releaseYear "1992-01-01"^^xsd:gYear .
+
+dbr:True_Blue dbo:author <http://dbpedia.org/resource/Diana_Palmer_(author)> ;
+    dbo:releaseYear "2011-01-01"^^xsd:gYear .
+
+dbr:True_Colors dbo:author <http://dbpedia.org/resource/Diana_Palmer_(author)> ;
+    dbo:literaryGenre dbr:Novel ;
+    dbo:releaseYear "1991-01-01"^^xsd:gYear .
+
+dbr:Truth dbo:author dbr:Dmitry_Bykov ;
+    dbo:releaseYear "2005-01-01"^^xsd:gYear .
+
+dbr:Two_So_Small dbo:author dbr:Hazel_Hutchins ;
+    dbo:releaseYear "2000-01-01"^^xsd:gYear .
+
+dbr:Tykha_Pravda_Modesta_Levytskoho dbo:author dbr:Ivan_Feodosiyovych_Korsak ;
+    dbo:releaseYear "2009-01-01"^^xsd:gYear .
+
+dbr:Tyler dbo:author <http://dbpedia.org/resource/Diana_Palmer_(author)> ;
+    dbo:releaseYear "1989-01-01"^^xsd:gYear .
+
+dbr:Uncle_Suni dbo:author dbr:Hyun_Ki-young ;
+    dbo:isbn "978-89-6208-002-5"^^xsd:string ;
+    dbo:releaseYear "1979-01-01"^^xsd:gYear .
+
+dbr:Under_the_Mistletoe dbo:author <http://dbpedia.org/resource/Diana_Palmer_(author)> ;
+    dbo:literaryGenre dbr:Anthology ;
+    dbo:releaseYear "2006-01-01"^^xsd:gYear .
+
+dbr:Unlikely_Alliances dbo:author <http://dbpedia.org/resource/Diana_Palmer_(author)> ;
+    dbo:literaryGenre dbr:Anthology ;
+    dbo:releaseYear "2002-01-01"^^xsd:gYear .
+
+dbr:Unlikely_lover dbo:author <http://dbpedia.org/resource/Diana_Palmer_(author)> ;
+    dbo:releaseYear "1986-01-01"^^xsd:gYear .
+
+dbr:Untamed dbo:author <http://dbpedia.org/resource/Diana_Palmer_(author)> ;
+    dbo:releaseYear "2015-01-01"^^xsd:gYear .
+
+dbr:Viacheslav_Chornovil_Prize dbo:author dbr:Ivan_Feodosiyovych_Korsak ;
+    dbo:releaseYear "2007-01-01"^^xsd:gYear .
+
+dbr:Vignettes_of_Manhattan dbo:author dbr:Brander_Matthews ;
+    dbo:releaseYear "1894-01-01"^^xsd:gYear .
+
+dbr:Virginius dbo:author dbr:James_Sheridan_Knowles ;
+    dbo:releaseYear "1820-01-01"^^xsd:gYear .
+
+dbr:Vistas_of_New_York dbo:author dbr:Brander_Matthews ;
+    dbo:releaseYear "1912-01-01"^^xsd:gYear .
+
+dbr:Vybuh_u_Pusteli dbo:author dbr:Ivan_Feodosiyovych_Korsak ;
+    dbo:releaseYear "2015-01-01"^^xsd:gYear .
+
+<http://dbpedia.org/resource/Wanna_Get_Lucky%3F> dbo:author dbr:Deborah_Coonts ;
+    dbo:isbn "978-0985792589"^^xsd:string ;
+    dbo:releaseYear "2015-01-01"^^xsd:gYear .
+
+dbr:War_Hawk dbo:author dbr:James_Rollins ;
+    dbo:releaseYear "2016-01-01"^^xsd:gYear .
+
+<http://dbpedia.org/resource/Was_Gorky_real%3F> dbo:author dbr:Dmitry_Bykov ;
+    dbo:literaryGenre dbr:Biography ;
+    dbo:releaseYear "2008-01-01"^^xsd:gYear .
+
+dbr:Water_Hazard dbo:author dbr:Hélène_Boudreau ;
+    dbo:releaseYear "2010-01-01"^^xsd:gYear .
+
+dbr:Way_to_health dbo:author dbr:Hemchandra_Barua .
+
+dbr:Ways_to_Disappear dbo:author dbr:Idra_Novey ;
+    dbo:isbn "9780316298506"^^xsd:string ;
+    dbo:releaseYear "2016-01-01"^^xsd:gYear .
+
+dbr:Weddings_in_White dbo:author <http://dbpedia.org/resource/Diana_Palmer_(author)> ;
+    dbo:releaseYear "2000-01-01"^^xsd:gYear .
+
+dbr:When_Corporations_Rule_the_World dbo:author dbr:David_Korten ;
+    dbo:releaseYear "2015-01-01"^^xsd:gYear .
+
+<http://dbpedia.org/resource/White_Sand%2C_Wild_Sea> dbo:author <http://dbpedia.org/resource/Diana_Palmer_(author)> ;
+    dbo:literaryGenre dbr:Novel ;
+    dbo:releaseYear "1983-01-01"^^xsd:gYear .
+
+dbr:Will_of_Steel dbo:author <http://dbpedia.org/resource/Diana_Palmer_(author)> ;
+    dbo:literaryGenre dbr:Novel ;
+    dbo:releaseYear "2010-01-01"^^xsd:gYear .
+
+dbr:William_Tell dbo:author dbr:James_Sheridan_Knowles ;
+    dbo:releaseYear "1825-01-01"^^xsd:gYear .
+
+dbr:Windy_Island dbo:author dbr:Hyun_Ki-young ;
+    dbo:releaseYear "1989-01-01"^^xsd:gYear .
+
+dbr:Winter_Loving dbo:author <http://dbpedia.org/resource/Diana_Palmer_(author)> ;
+    dbo:literaryGenre dbr:Anthology ;
+    dbo:releaseYear "2001-01-01"^^xsd:gYear .
+
+dbr:Winter_Roses dbo:author <http://dbpedia.org/resource/Diana_Palmer_(author)> ;
+    dbo:releaseYear "2007-01-01"^^xsd:gYear .
+
+<http://dbpedia.org/resource/Wisse%2C_dass_du_sterblich_bist> dbo:author dbr:Ilka_Stitz ;
+    dbo:releaseYear "2004-01-01"^^xsd:gYear .
+
+<http://dbpedia.org/resource/Wit%27ch_Fire> dbo:author dbr:James_Rollins ;
+    dbo:releaseYear "1998-01-01"^^xsd:gYear .
+
+<http://dbpedia.org/resource/Wit%27ch_Gate> dbo:author dbr:James_Rollins ;
+    dbo:releaseYear "2001-01-01"^^xsd:gYear .
+
+<http://dbpedia.org/resource/Wit%27ch_Star> dbo:author dbr:James_Rollins ;
+    dbo:releaseYear "2002-01-01"^^xsd:gYear .
+
+<http://dbpedia.org/resource/Wit%27ch_Storm> dbo:author dbr:James_Rollins ;
+    dbo:releaseYear "1999-01-01"^^xsd:gYear .
+
+<http://dbpedia.org/resource/Wit%27ch_War> dbo:author dbr:James_Rollins ;
+    dbo:releaseYear "2000-01-01"^^xsd:gYear .
+
+dbr:With_a_Southern_Touch dbo:author <http://dbpedia.org/resource/Diana_Palmer_(author)> ;
+    dbo:literaryGenre dbr:Anthology ;
+    dbo:releaseYear "2002-01-01"^^xsd:gYear .
+
+dbr:Within_A_Painted_Past dbo:author dbr:Hazel_Hutchins ;
+    dbo:releaseYear "1994-01-01"^^xsd:gYear .
+
+<http://dbpedia.org/resource/Woman%27s_Wit%3B_or%2C_Loves_Disguises> dbo:author dbr:James_Sheridan_Knowles ;
+    dbo:releaseYear "1838-01-01"^^xsd:gYear .
+
+dbr:Woman_Hater dbo:author <http://dbpedia.org/resource/Diana_Palmer_(author)> ;
+    dbo:literaryGenre dbr:Novel ;
+    dbo:releaseYear "1988-01-01"^^xsd:gYear .
+
+dbr:World_of_Volynian_Books_Prize dbo:author dbr:Ivan_Feodosiyovych_Korsak ;
+    dbo:releaseYear "2008-01-01"^^xsd:gYear .
+
+dbr:Wyoming_Bold dbo:author <http://dbpedia.org/resource/Diana_Palmer_(author)> ;
+    dbo:releaseYear "2013-01-01"^^xsd:gYear .
+
+dbr:Wyoming_Brave dbo:author <http://dbpedia.org/resource/Diana_Palmer_(author)> ;
+    dbo:releaseYear "2016-01-01"^^xsd:gYear .
+
+dbr:Wyoming_Fierce dbo:author <http://dbpedia.org/resource/Diana_Palmer_(author)> ;
+    dbo:releaseYear "2012-01-01"^^xsd:gYear .
+
+dbr:Wyoming_Rugged dbo:author <http://dbpedia.org/resource/Diana_Palmer_(author)> ;
+    dbo:releaseYear "2015-01-01"^^xsd:gYear .
+
+dbr:Wyoming_Strong dbo:author <http://dbpedia.org/resource/Diana_Palmer_(author)> ;
+    dbo:releaseYear "2014-01-01"^^xsd:gYear .
+
+dbr:Wyoming_Tough dbo:author <http://dbpedia.org/resource/Diana_Palmer_(author)> ;
+    dbo:releaseYear "2011-01-01"^^xsd:gYear .
+
+dbr:X dbo:author dbr:Dmitry_Bykov ;
+    dbo:releaseYear "2012-01-01"^^xsd:gYear .
+
+dbr:Yancy_and_Bear dbo:author dbr:Hazel_Hutchins ;
+    dbo:releaseYear "1996-01-01"^^xsd:gYear .
+
+dbr:Zapiznile_Kohannya_Mikluho-Maklaya dbo:author dbr:Ivan_Feodosiyovych_Korsak ;
+    dbo:releaseYear "2016-01-01"^^xsd:gYear .
+
+dbr:Zavoyovnyk_Yevropy dbo:author dbr:Ivan_Feodosiyovych_Korsak ;
+    dbo:releaseYear "2012-01-01"^^xsd:gYear .
+
+dbr:ZhD dbo:author dbr:Dmitry_Bykov ;
+    dbo:releaseYear "2006-01-01"^^xsd:gYear .
+
+dbr:ZhD_Sort_Stories dbo:author dbr:Dmitry_Bykov ;
+    dbo:releaseYear "2007-01-01"^^xsd:gYear .
+
+dbr:Zoreslav_Literary_Prize dbo:author dbr:Ivan_Feodosiyovych_Korsak ;
+    dbo:releaseYear "2012-01-01"^^xsd:gYear .
+
+dbr:six_short_stories dbo:author dbr:Carson_McCullers .
+

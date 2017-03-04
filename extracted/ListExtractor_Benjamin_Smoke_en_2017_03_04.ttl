@@ -1,0 +1,25 @@
+@prefix dbo: <http://dbpedia.org/ontology/> .
+@prefix dbr: <http://dbpedia.org/resource/> .
+@prefix rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#> .
+@prefix xml: <http://www.w3.org/XML/1998/namespace> .
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#> .
+
+dbr:Another_Reason_To_Fast dbo:musicalArtist dbr:Benjamin_Smoke ;
+    dbo:releaseYear "1995-01-01"^^xsd:gYear .
+
+dbr:Heaven_on_a_Popsicle_Stick dbo:musicalArtist dbr:Benjamin_Smoke ;
+    dbo:releaseYear "1994-01-01"^^xsd:gYear .
+
+dbr:House_of_the_Rising_Sun dbo:musicalArtist dbr:Benjamin_Smoke ;
+    dbo:releaseYear "1994-01-01"^^xsd:gYear .
+
+<http://dbpedia.org/resource/Jesus_Christ_Superstar%3A_A_Resurrection> dbo:musicalArtist dbr:Benjamin_Smoke ;
+    dbo:releaseYear "1994-01-01"^^xsd:gYear .
+
+<http://dbpedia.org/resource/Pretend/Dirt> dbo:musicalArtist dbr:Benjamin_Smoke ;
+    dbo:releaseYear "1993-01-01"^^xsd:gYear .
+
+<http://dbpedia.org/resource/The_Love_That_Won%27t_Shut_Up> dbo:musicalArtist dbr:Benjamin_Smoke ;
+    dbo:releaseYear "1994-01-01"^^xsd:gYear .
+

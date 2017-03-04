@@ -3,7 +3,7 @@ The "MAPPING" dictionary is used to select a mapping function for the given reso
 each key represents a class of resources from DBpedia ontology, while values MUST correspond
 to mapping methods in mapper.py and begin with 'map_'
 '''
-MAPPING = {'Writer': 'BIBLIOGRAPHY', 'Actor': 'FILMOGRAPHY'}
+MAPPING = {'Writer': 'BIBLIOGRAPHY', 'Actor': 'FILMOGRAPHY', 'MusicalArtist': 'DISCOGRAPHY'}
 
 '''
 Contains the substrings or keywords to be searched inside section names in order to relate a list to the topic.
@@ -19,6 +19,27 @@ BIBLIOGRAPHY = {
 FILMOGRAPHY = {
     'en': ['filmography'],
     'it': ['filmografia']
+}
+
+
+#Added musician domain
+
+DISCOGRAPHY = {
+    'en' : ['discography', 'album'],
+    'it' : ['discografia']
+}
+
+#To be added later
+MUSIC_GENRE = {
+    'en': { 'Blues':'Blues', 'Folk': 'Folk', 'Classical': 'Classical', 'Ballet': 'Ballet', 'Opera': 'Opera',
+            'Country': 'Country', 'Alternative': 'Alternative', 'Electronic': 'Electronic', 'Ambient': 'Ambient',
+            'Dance': 'Dance', 'Trance': 'Trance', 'Hip Hop': 'Hip_Hop', 'Indie': 'Hip Hop', 'Jazz': 'Jazz',
+            'Latin': 'Latin', 'Acoustic': 'Acoustic', 'Pop': 'Pop', 'R&B/Soul': 'R&B',
+            'Rock': 'Rock', 'Grunge': 'Grunge', 'Hard Rock': 'Hard_Rock', 'Metal': 'Metal', 'Reggae':'Reggae',
+            'Rap': 'Rap' 
+        },
+
+    'it': {}
 }
 
 

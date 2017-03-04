@@ -1,0 +1,19 @@
+@prefix dbo: <http://dbpedia.org/ontology/> .
+@prefix dbr: <http://dbpedia.org/resource/> .
+@prefix rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#> .
+@prefix xml: <http://www.w3.org/XML/1998/namespace> .
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#> .
+
+dbr:Dreaming_Out_Loud dbo:musicalArtist dbr:Ryan_Tedder ;
+    dbo:releaseYear "2007-01-01"^^xsd:gYear .
+
+<http://dbpedia.org/resource/Native_%28album%29> dbo:musicalArtist dbr:Ryan_Tedder ;
+    dbo:releaseYear "2013-01-01"^^xsd:gYear .
+
+<http://dbpedia.org/resource/Oh_My_My_%28album%29> dbo:musicalArtist dbr:Ryan_Tedder ;
+    dbo:releaseYear "2016-01-01"^^xsd:gYear .
+
+<http://dbpedia.org/resource/Waking_Up_%28OneRepublic_album%29> dbo:musicalArtist dbr:Ryan_Tedder ;
+    dbo:releaseYear "2009-01-01"^^xsd:gYear .
+

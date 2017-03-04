@@ -1,0 +1,1 @@
+http://dbpedia.org/sparql?default-graph-uri=&query=SELECT+distinct+%3Fs+as+%3Fres+WHERE%7B+%3Fs+a+%3Chttp%3A%2F%2Fdbpedia.org%2Fontology%2FMusicalArtist%3E+.%3Fs+%3Chttp%3A%2F%2Fdbpedia.org%2Fontology%2FwikiPageID%3E+%3Ff%7D+LIMIT+1000+OFFSET+0&format=application%2Fsparql-results%2Bjson&debug=on
