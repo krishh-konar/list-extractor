@@ -1,6 +1,7 @@
 # -*- coding: utf-8 -*-
 import utilities
 import time
+import json
 
 last_sec_title = ""  # last section title parsed
 header_title = ""  # last header (main section) title parsed
@@ -28,6 +29,8 @@ def main_parser(language, resource):
             lists.update(parsed_sect)
     cleanlists = utilities.clean_dictionary(lists)  #clean resulting dictionary and leave only meaningful keys
     return cleanlists
+    #return remove_symbols(cleanlists)
+
 
 
 def parse_section(section):

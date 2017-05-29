@@ -25,8 +25,36 @@ FILMOGRAPHY = {
 #Added musician domain
 
 DISCOGRAPHY = {
-    'en' : ['discography', 'album'],
+    'en' : ['discography', 'album', 'studio', 'singles', 'live', 'soundtrack', 'compilation'],
     'it' : ['discografia']
+}
+
+BAND_MEMBERS = {
+    'en' : ['members', 'bands', 'personnel', 'team', ],
+       
+}
+
+FOOTBALL_CLUBS = {
+    'en' : ['honors', 'honours', 'achievements', 'former', 'records', 'board', 'officials', 'staff', 'members', 
+            'managers', 'players', 'honorary']
+}
+
+EDUCATIONAL_INSTITUTES = {
+    'en' : ['organisation', 'organization', 'alumni', 'scholarships', 'faculty', 'administration', 
+            'institutions', 'research', 'academics', 'principals', 'courses', 'campuses'],
+    'it' : []   
+}
+
+MAGAZINE_CONTRIBUTION = {
+    'en' : ['contributor', 'contributors', 'mastheads', 'staff', 'ex-staff', 'winners', 'editors', 
+            'members', 'team', 'columnists', 'correspondents', 'reporters'],
+    'it' : []
+}
+
+NEWSPAPER_CONTRIBUTION = {
+    'en' : ['contributor', 'contributors', 'mastheads', 'staff', 'ex-staff', 'writers', 'editors', 
+            'members', 'personalitites','team', 'columnists', 'cartoonists', 'alumni', 'correspondents', 'reporters'],
+    'it' : []
 }
 
 #To be added later
@@ -42,6 +70,15 @@ MUSIC_GENRE = {
     'it': {}
 }
 
+
+CONTRIBUTION_TYPE = {
+    'en': {
+
+    },
+
+    'it': {
+    }
+}
 
 """Used in map_bibliography to reconcile section names with literary genres expressed by DBpedia ontology classes"""
 BIBLIO_GENRE = {

@@ -87,7 +87,26 @@ def clean_dictionary(listDict) :
     for key in listDict.keys() :
         if listDict[key] == '' :
             listDict.pop(key)
+
+        else:
+            listDict[key] = remove_symbols(listDict[key])
+
     return listDict
+
+
+### Custom Fn ##
+#################
+
+def remove_symbols(listDict_key):
+    ''' removes other sybols are garbage characters that pollute the values to be inserted '''
+    for i in range(len(listDict_key)):
+        value = listDict_key[i]
+        if type(value)==list:
+            value=remove_symbols(value)
+        else:
+            listDict_key[i] = value.replace('&nbsp;','')
+        # print '----', listDict_key[i] 
+    return listDict_key
 
 
 def sparql_query(query, lang):
